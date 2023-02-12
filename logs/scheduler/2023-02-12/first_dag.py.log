@@ -1,0 +1,217 @@
+[2023-02-12 00:54:31,341] {processor.py:153} INFO - Started process (PID=20076) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 00:54:31,342] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 00:54:31,342] {logging_mixin.py:115} INFO - [2023-02-12 00:54:31,342] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 00:54:32,177] {logging_mixin.py:115} INFO - [2023-02-12 00:54:31,957] {dagbag.py:320} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py", line 14, in <module>
+    task_1 = EmptyOperator(
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 348, in apply_defaults
+    raise AirflowException("Use keyword arguments when initializing operators")
+airflow.exceptions.AirflowException: Use keyword arguments when initializing operators
+[2023-02-12 00:54:32,178] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 00:54:32,264] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.923 seconds
+[2023-02-12 00:55:05,692] {processor.py:153} INFO - Started process (PID=20108) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 00:55:05,693] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 00:55:05,693] {logging_mixin.py:115} INFO - [2023-02-12 00:55:05,693] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 00:55:05,777] {logging_mixin.py:115} INFO - [2023-02-12 00:55:05,762] {dagbag.py:320} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py", line 14, in <module>
+    task_1 = EmptyOperator(
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 348, in apply_defaults
+    raise AirflowException("Use keyword arguments when initializing operators")
+airflow.exceptions.AirflowException: Use keyword arguments when initializing operators
+[2023-02-12 00:55:05,777] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 00:55:05,838] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.146 seconds
+[2023-02-12 00:56:01,445] {processor.py:153} INFO - Started process (PID=20120) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 00:56:01,526] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 00:56:01,526] {logging_mixin.py:115} INFO - [2023-02-12 00:56:01,526] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 00:56:02,704] {logging_mixin.py:115} INFO - [2023-02-12 00:56:02,474] {dagbag.py:320} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py", line 14, in <module>
+    task_1 = EmptyOperator(
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 348, in apply_defaults
+    raise AirflowException("Use keyword arguments when initializing operators")
+airflow.exceptions.AirflowException: Use keyword arguments when initializing operators
+[2023-02-12 00:56:02,704] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 00:56:03,257] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 1.814 seconds
+[2023-02-12 00:56:39,587] {processor.py:153} INFO - Started process (PID=20158) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 00:56:39,608] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 00:56:39,609] {logging_mixin.py:115} INFO - [2023-02-12 00:56:39,609] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 00:56:39,683] {logging_mixin.py:115} INFO - [2023-02-12 00:56:39,636] {dagbag.py:320} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py", line 17, in <module>
+    task_2 = EmptyOperator(
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 764, in __init__
+    task_group.add(self)
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/utils/task_group.py", line 196, in add
+    raise DuplicateTaskIdFound(f"{node_type} id '{key}' has already been added to the DAG")
+airflow.exceptions.DuplicateTaskIdFound: Task id 'tarefa_vazia_teste' has already been added to the DAG
+[2023-02-12 00:56:39,684] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 00:56:39,747] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.161 seconds
+[2023-02-12 00:57:17,040] {processor.py:153} INFO - Started process (PID=20216) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 00:57:17,067] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 00:57:17,070] {logging_mixin.py:115} INFO - [2023-02-12 00:57:17,069] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 00:57:17,765] {logging_mixin.py:115} INFO - [2023-02-12 00:57:17,562] {dagbag.py:320} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 883, in exec_module
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py", line 17, in <module>
+    task_2 = EmptyOperator(
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 390, in apply_defaults
+    result = func(self, **kwargs, default_args=default_args)
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/baseoperator.py", line 764, in __init__
+    task_group.add(self)
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/utils/task_group.py", line 196, in add
+    raise DuplicateTaskIdFound(f"{node_type} id '{key}' has already been added to the DAG")
+airflow.exceptions.DuplicateTaskIdFound: Task id 'tarefa_vazia_teste' has already been added to the DAG
+[2023-02-12 00:57:17,766] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 00:57:18,039] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 1.001 seconds
+[2023-02-12 00:57:52,379] {processor.py:153} INFO - Started process (PID=20257) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 00:57:52,380] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 00:57:52,380] {logging_mixin.py:115} INFO - [2023-02-12 00:57:52,380] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 00:57:52,418] {logging_mixin.py:115} INFO - [2023-02-12 00:57:52,391] {dagbag.py:412} ERROR - Failed to bag_dag: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/timetables/interval.py", line 173, in validate
+    croniter(self._expression)
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/croniter/croniter.py", line 166, in __init__
+    self.expanded, self.nth_weekday_of_month = self.expand(expr_format, hash_id=hash_id)
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/croniter/croniter.py", line 774, in expand
+    return cls._expand(expr_format, hash_id=hash_id)
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/croniter/croniter.py", line 620, in _expand
+    raise CroniterBadCronError(cls.bad_length)
+croniter.croniter.CroniterBadCronError: Exactly 5 or 6 columns has to be specified for iterator expression.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 405, in _process_modules
+    dag.timetable.validate()
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/timetables/interval.py", line 175, in validate
+    raise AirflowTimetableInvalid(str(e))
+airflow.exceptions.AirflowTimetableInvalid: Exactly 5 or 6 columns has to be specified for iterator expression.
+[2023-02-12 00:57:52,419] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 00:57:52,479] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.100 seconds
+[2023-02-12 00:58:24,132] {processor.py:153} INFO - Started process (PID=20278) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 00:58:24,132] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 00:58:24,133] {logging_mixin.py:115} INFO - [2023-02-12 00:58:24,132] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 00:58:24,276] {logging_mixin.py:115} INFO - [2023-02-12 00:58:24,191] {dagbag.py:412} ERROR - Failed to bag_dag: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/timetables/interval.py", line 173, in validate
+    croniter(self._expression)
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/croniter/croniter.py", line 166, in __init__
+    self.expanded, self.nth_weekday_of_month = self.expand(expr_format, hash_id=hash_id)
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/croniter/croniter.py", line 774, in expand
+    return cls._expand(expr_format, hash_id=hash_id)
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/croniter/croniter.py", line 620, in _expand
+    raise CroniterBadCronError(cls.bad_length)
+croniter.croniter.CroniterBadCronError: Exactly 5 or 6 columns has to be specified for iterator expression.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 405, in _process_modules
+    dag.timetable.validate()
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/timetables/interval.py", line 175, in validate
+    raise AirflowTimetableInvalid(str(e))
+airflow.exceptions.AirflowTimetableInvalid: Exactly 5 or 6 columns has to be specified for iterator expression.
+[2023-02-12 00:58:24,277] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 00:58:24,345] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.215 seconds
+[2023-02-12 00:59:00,898] {processor.py:153} INFO - Started process (PID=20292) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 00:59:00,913] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 00:59:00,914] {logging_mixin.py:115} INFO - [2023-02-12 00:59:00,914] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 00:59:01,098] {logging_mixin.py:115} INFO - [2023-02-12 00:59:01,002] {dagbag.py:412} ERROR - Failed to bag_dag: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/timetables/interval.py", line 173, in validate
+    croniter(self._expression)
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/croniter/croniter.py", line 166, in __init__
+    self.expanded, self.nth_weekday_of_month = self.expand(expr_format, hash_id=hash_id)
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/croniter/croniter.py", line 774, in expand
+    return cls._expand(expr_format, hash_id=hash_id)
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/croniter/croniter.py", line 620, in _expand
+    raise CroniterBadCronError(cls.bad_length)
+croniter.croniter.CroniterBadCronError: Exactly 5 or 6 columns has to be specified for iterator expression.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 405, in _process_modules
+    dag.timetable.validate()
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/timetables/interval.py", line 175, in validate
+    raise AirflowTimetableInvalid(str(e))
+airflow.exceptions.AirflowTimetableInvalid: Exactly 5 or 6 columns has to be specified for iterator expression.
+[2023-02-12 00:59:01,105] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 00:59:01,174] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.278 seconds
+[2023-02-12 01:01:43,576] {processor.py:153} INFO - Started process (PID=20459) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:01:43,614] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:01:43,615] {logging_mixin.py:115} INFO - [2023-02-12 01:01:43,615] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:01:43,719] {logging_mixin.py:115} INFO - [2023-02-12 01:01:43,670] {dagbag.py:412} ERROR - Failed to bag_dag: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/timetables/interval.py", line 173, in validate
+    croniter(self._expression)
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/croniter/croniter.py", line 166, in __init__
+    self.expanded, self.nth_weekday_of_month = self.expand(expr_format, hash_id=hash_id)
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/croniter/croniter.py", line 774, in expand
+    return cls._expand(expr_format, hash_id=hash_id)
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/croniter/croniter.py", line 620, in _expand
+    raise CroniterBadCronError(cls.bad_length)
+croniter.croniter.CroniterBadCronError: Exactly 5 or 6 columns has to be specified for iterator expression.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 405, in _process_modules
+    dag.timetable.validate()
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/timetables/interval.py", line 175, in validate
+    raise AirflowTimetableInvalid(str(e))
+airflow.exceptions.AirflowTimetableInvalid: Exactly 5 or 6 columns has to be specified for iterator expression.
+[2023-02-12 01:01:43,719] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:01:43,838] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.263 seconds
+[2023-02-12 01:02:50,520] {processor.py:153} INFO - Started process (PID=20485) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:02:50,520] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:02:50,521] {logging_mixin.py:115} INFO - [2023-02-12 01:02:50,521] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:02:51,293] {logging_mixin.py:115} INFO - [2023-02-12 01:02:50,773] {dagbag.py:412} ERROR - Failed to bag_dag: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/timetables/interval.py", line 173, in validate
+    croniter(self._expression)
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/croniter/croniter.py", line 166, in __init__
+    self.expanded, self.nth_weekday_of_month = self.expand(expr_format, hash_id=hash_id)
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/croniter/croniter.py", line 774, in expand
+    return cls._expand(expr_format, hash_id=hash_id)
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/croniter/croniter.py", line 620, in _expand
+    raise CroniterBadCronError(cls.bad_length)
+croniter.croniter.CroniterBadCronError: Exactly 5 or 6 columns has to be specified for iterator expression.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 405, in _process_modules
+    dag.timetable.validate()
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/timetables/interval.py", line 175, in validate
+    raise AirflowTimetableInvalid(str(e))
+airflow.exceptions.AirflowTimetableInvalid: Exactly 5 or 6 columns has to be specified for iterator expression.
+[2023-02-12 01:02:51,293] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:02:51,852] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 1.333 seconds
