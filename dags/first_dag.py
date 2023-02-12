@@ -5,9 +5,9 @@ from airflow.operators.bash_operator import BashOperator
 
 
 with DAG(
-    "primeiro_dag",
+    dag_id="primeiro_dag",
     start_date=days_ago(1),
-    schedule_interval='@dayly'
+    schedule_interval='@daily'
 ) as dag:
     
     

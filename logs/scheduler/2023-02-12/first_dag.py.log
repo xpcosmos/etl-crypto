@@ -215,3 +215,71 @@ Traceback (most recent call last):
 airflow.exceptions.AirflowTimetableInvalid: Exactly 5 or 6 columns has to be specified for iterator expression.
 [2023-02-12 01:02:51,293] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
 [2023-02-12 01:02:51,852] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 1.333 seconds
+[2023-02-12 01:03:37,813] {processor.py:153} INFO - Started process (PID=20509) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:03:37,838] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:03:37,839] {logging_mixin.py:115} INFO - [2023-02-12 01:03:37,839] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:03:37,924] {logging_mixin.py:115} INFO - [2023-02-12 01:03:37,889] {dagbag.py:412} ERROR - Failed to bag_dag: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/timetables/interval.py", line 173, in validate
+    croniter(self._expression)
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/croniter/croniter.py", line 166, in __init__
+    self.expanded, self.nth_weekday_of_month = self.expand(expr_format, hash_id=hash_id)
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/croniter/croniter.py", line 774, in expand
+    return cls._expand(expr_format, hash_id=hash_id)
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/croniter/croniter.py", line 620, in _expand
+    raise CroniterBadCronError(cls.bad_length)
+croniter.croniter.CroniterBadCronError: Exactly 5 or 6 columns has to be specified for iterator expression.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 405, in _process_modules
+    dag.timetable.validate()
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/timetables/interval.py", line 175, in validate
+    raise AirflowTimetableInvalid(str(e))
+airflow.exceptions.AirflowTimetableInvalid: Exactly 5 or 6 columns has to be specified for iterator expression.
+[2023-02-12 01:03:37,924] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:03:37,988] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.175 seconds
+[2023-02-12 01:04:11,654] {processor.py:153} INFO - Started process (PID=20546) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:04:11,672] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:04:11,674] {logging_mixin.py:115} INFO - [2023-02-12 01:04:11,673] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:04:11,725] {logging_mixin.py:115} INFO - [2023-02-12 01:04:11,697] {dagbag.py:412} ERROR - Failed to bag_dag: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/timetables/interval.py", line 173, in validate
+    croniter(self._expression)
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/croniter/croniter.py", line 166, in __init__
+    self.expanded, self.nth_weekday_of_month = self.expand(expr_format, hash_id=hash_id)
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/croniter/croniter.py", line 774, in expand
+    return cls._expand(expr_format, hash_id=hash_id)
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/croniter/croniter.py", line 620, in _expand
+    raise CroniterBadCronError(cls.bad_length)
+croniter.croniter.CroniterBadCronError: Exactly 5 or 6 columns has to be specified for iterator expression.
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 405, in _process_modules
+    dag.timetable.validate()
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/timetables/interval.py", line 175, in validate
+    raise AirflowTimetableInvalid(str(e))
+airflow.exceptions.AirflowTimetableInvalid: Exactly 5 or 6 columns has to be specified for iterator expression.
+[2023-02-12 01:04:11,725] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:04:11,836] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.184 seconds
+[2023-02-12 01:04:52,550] {processor.py:153} INFO - Started process (PID=20573) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:04:52,569] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:04:52,570] {logging_mixin.py:115} INFO - [2023-02-12 01:04:52,570] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:04:52,797] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:04:59,433] {logging_mixin.py:115} INFO - [2023-02-12 01:04:59,433] {manager.py:508} INFO - Created Permission View: can delete on DAG:primeiro_dag
+[2023-02-12 01:04:59,444] {logging_mixin.py:115} INFO - [2023-02-12 01:04:59,444] {manager.py:508} INFO - Created Permission View: can edit on DAG:primeiro_dag
+[2023-02-12 01:04:59,453] {logging_mixin.py:115} INFO - [2023-02-12 01:04:59,453] {manager.py:508} INFO - Created Permission View: can read on DAG:primeiro_dag
+[2023-02-12 01:04:59,453] {logging_mixin.py:115} INFO - [2023-02-12 01:04:59,453] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:04:59,463] {logging_mixin.py:115} INFO - [2023-02-12 01:04:59,463] {dag.py:2398} INFO - Creating ORM DAG for primeiro_dag
+[2023-02-12 01:04:59,475] {logging_mixin.py:115} INFO - [2023-02-12 01:04:59,474] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-11T00:00:00+00:00, run_after=2023-02-12T00:00:00+00:00
+[2023-02-12 01:04:59,495] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 6.946 seconds
+[2023-02-12 01:05:31,333] {processor.py:153} INFO - Started process (PID=20622) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:05:31,333] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:05:31,334] {logging_mixin.py:115} INFO - [2023-02-12 01:05:31,334] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:05:31,374] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:05:31,464] {logging_mixin.py:115} INFO - [2023-02-12 01:05:31,464] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:05:31,484] {logging_mixin.py:115} INFO - [2023-02-12 01:05:31,484] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:05:31,501] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.169 seconds
