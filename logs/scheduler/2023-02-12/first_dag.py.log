@@ -23,3 +23,822 @@
 [2023-02-12 01:15:49,475] {logging_mixin.py:115} INFO - [2023-02-12 01:15:49,474] {dag.py:2379} INFO - Sync 1 DAGs
 [2023-02-12 01:15:49,499] {logging_mixin.py:115} INFO - [2023-02-12 01:15:49,499] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-11T00:00:00+00:00, run_after=2023-02-12T00:00:00+00:00
 [2023-02-12 01:15:49,555] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.392 seconds
+[2023-02-12 01:16:23,088] {processor.py:153} INFO - Started process (PID=21181) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:16:23,089] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:16:23,090] {logging_mixin.py:115} INFO - [2023-02-12 01:16:23,090] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:16:23,141] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:16:23,285] {logging_mixin.py:115} INFO - [2023-02-12 01:16:23,284] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:16:23,309] {logging_mixin.py:115} INFO - [2023-02-12 01:16:23,309] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-11T00:00:00+00:00, run_after=2023-02-12T00:00:00+00:00
+[2023-02-12 01:16:23,326] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.238 seconds
+[2023-02-12 01:16:55,118] {processor.py:153} INFO - Started process (PID=21206) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:16:55,118] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:16:55,119] {logging_mixin.py:115} INFO - [2023-02-12 01:16:55,119] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:16:55,159] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:16:55,298] {logging_mixin.py:115} INFO - [2023-02-12 01:16:55,297] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:16:55,358] {logging_mixin.py:115} INFO - [2023-02-12 01:16:55,356] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-11T00:00:00+00:00, run_after=2023-02-12T00:00:00+00:00
+[2023-02-12 01:16:55,597] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.481 seconds
+[2023-02-12 01:17:27,209] {processor.py:153} INFO - Started process (PID=21255) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:17:27,209] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:17:27,209] {logging_mixin.py:115} INFO - [2023-02-12 01:17:27,209] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:17:27,232] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:17:27,324] {logging_mixin.py:115} INFO - [2023-02-12 01:17:27,324] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:17:27,345] {logging_mixin.py:115} INFO - [2023-02-12 01:17:27,344] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-11T00:00:00+00:00, run_after=2023-02-12T00:00:00+00:00
+[2023-02-12 01:17:27,359] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.152 seconds
+[2023-02-12 01:18:02,702] {processor.py:153} INFO - Started process (PID=21280) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:18:02,726] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:18:02,727] {logging_mixin.py:115} INFO - [2023-02-12 01:18:02,727] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:18:02,941] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:18:03,236] {logging_mixin.py:115} INFO - [2023-02-12 01:18:03,235] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:18:03,257] {logging_mixin.py:115} INFO - [2023-02-12 01:18:03,257] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-11T00:00:00+00:00, run_after=2023-02-12T00:00:00+00:00
+[2023-02-12 01:18:03,278] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.576 seconds
+[2023-02-12 01:18:36,692] {processor.py:153} INFO - Started process (PID=21319) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:18:36,692] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:18:36,693] {logging_mixin.py:115} INFO - [2023-02-12 01:18:36,692] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:18:36,716] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:18:36,809] {logging_mixin.py:115} INFO - [2023-02-12 01:18:36,809] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:18:36,831] {logging_mixin.py:115} INFO - [2023-02-12 01:18:36,831] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-11T00:00:00+00:00, run_after=2023-02-12T00:00:00+00:00
+[2023-02-12 01:18:36,848] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.157 seconds
+[2023-02-12 01:19:10,547] {processor.py:153} INFO - Started process (PID=21361) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:19:10,569] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:19:10,570] {logging_mixin.py:115} INFO - [2023-02-12 01:19:10,570] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:19:10,635] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:19:14,980] {logging_mixin.py:115} INFO - [2023-02-12 01:19:14,980] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:19:15,002] {logging_mixin.py:115} INFO - [2023-02-12 01:19:15,002] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-10T00:00:00+00:00, run_after=2023-02-11T00:00:00+00:00
+[2023-02-12 01:19:15,021] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 4.475 seconds
+[2023-02-12 01:20:14,954] {processor.py:153} INFO - Started process (PID=21397) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:20:14,955] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:20:14,955] {logging_mixin.py:115} INFO - [2023-02-12 01:20:14,955] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:20:14,979] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:20:15,137] {logging_mixin.py:115} INFO - [2023-02-12 01:20:15,137] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:20:15,163] {logging_mixin.py:115} INFO - [2023-02-12 01:20:15,163] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:20:15,216] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.263 seconds
+[2023-02-12 01:20:55,423] {processor.py:153} INFO - Started process (PID=21433) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:20:55,440] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:20:55,441] {logging_mixin.py:115} INFO - [2023-02-12 01:20:55,441] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:20:55,708] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:20:55,894] {logging_mixin.py:115} INFO - [2023-02-12 01:20:55,894] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:20:55,930] {logging_mixin.py:115} INFO - [2023-02-12 01:20:55,930] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:20:55,965] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.544 seconds
+[2023-02-12 01:21:27,985] {processor.py:153} INFO - Started process (PID=21467) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:21:27,986] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:21:27,986] {logging_mixin.py:115} INFO - [2023-02-12 01:21:27,986] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:21:28,008] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:21:28,097] {logging_mixin.py:115} INFO - [2023-02-12 01:21:28,097] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:21:28,118] {logging_mixin.py:115} INFO - [2023-02-12 01:21:28,118] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:21:28,132] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.148 seconds
+[2023-02-12 01:21:59,504] {processor.py:153} INFO - Started process (PID=21493) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:21:59,504] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:21:59,505] {logging_mixin.py:115} INFO - [2023-02-12 01:21:59,504] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:21:59,526] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:21:59,617] {logging_mixin.py:115} INFO - [2023-02-12 01:21:59,617] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:21:59,638] {logging_mixin.py:115} INFO - [2023-02-12 01:21:59,638] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:21:59,670] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.167 seconds
+[2023-02-12 01:22:30,987] {processor.py:153} INFO - Started process (PID=21518) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:22:30,987] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:22:30,988] {logging_mixin.py:115} INFO - [2023-02-12 01:22:30,988] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:22:31,011] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:22:31,101] {logging_mixin.py:115} INFO - [2023-02-12 01:22:31,101] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:22:31,122] {logging_mixin.py:115} INFO - [2023-02-12 01:22:31,122] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:22:31,137] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.150 seconds
+[2023-02-12 01:23:02,532] {processor.py:153} INFO - Started process (PID=21539) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:23:02,532] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:23:02,532] {logging_mixin.py:115} INFO - [2023-02-12 01:23:02,532] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:23:02,557] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:23:02,658] {logging_mixin.py:115} INFO - [2023-02-12 01:23:02,658] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:23:02,678] {logging_mixin.py:115} INFO - [2023-02-12 01:23:02,678] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:23:03,193] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.663 seconds
+[2023-02-12 01:23:35,551] {processor.py:153} INFO - Started process (PID=21554) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:23:35,551] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:23:35,552] {logging_mixin.py:115} INFO - [2023-02-12 01:23:35,552] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:23:35,629] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:23:35,725] {logging_mixin.py:115} INFO - [2023-02-12 01:23:35,725] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:23:35,760] {logging_mixin.py:115} INFO - [2023-02-12 01:23:35,760] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:23:35,779] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.230 seconds
+[2023-02-12 01:24:18,431] {processor.py:153} INFO - Started process (PID=21567) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:24:18,457] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:24:18,458] {logging_mixin.py:115} INFO - [2023-02-12 01:24:18,458] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:24:18,573] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:24:18,741] {logging_mixin.py:115} INFO - [2023-02-12 01:24:18,740] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:24:18,762] {logging_mixin.py:115} INFO - [2023-02-12 01:24:18,762] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:24:18,780] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.350 seconds
+[2023-02-12 01:25:18,134] {processor.py:153} INFO - Started process (PID=21593) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:25:18,150] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:25:18,151] {logging_mixin.py:115} INFO - [2023-02-12 01:25:18,151] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:25:18,307] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:25:18,449] {logging_mixin.py:115} INFO - [2023-02-12 01:25:18,448] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:25:18,472] {logging_mixin.py:115} INFO - [2023-02-12 01:25:18,472] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:25:18,487] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.354 seconds
+[2023-02-12 01:25:51,009] {processor.py:153} INFO - Started process (PID=21601) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:25:51,009] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:25:51,010] {logging_mixin.py:115} INFO - [2023-02-12 01:25:51,010] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:25:51,035] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:25:51,125] {logging_mixin.py:115} INFO - [2023-02-12 01:25:51,125] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:25:51,147] {logging_mixin.py:115} INFO - [2023-02-12 01:25:51,147] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:25:51,161] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.154 seconds
+[2023-02-12 01:26:22,520] {processor.py:153} INFO - Started process (PID=21623) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:26:22,521] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:26:22,521] {logging_mixin.py:115} INFO - [2023-02-12 01:26:22,521] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:26:22,545] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:26:22,641] {logging_mixin.py:115} INFO - [2023-02-12 01:26:22,641] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:26:22,663] {logging_mixin.py:115} INFO - [2023-02-12 01:26:22,663] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:26:22,680] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.160 seconds
+[2023-02-12 01:26:54,378] {processor.py:153} INFO - Started process (PID=21661) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:26:54,378] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:26:54,378] {logging_mixin.py:115} INFO - [2023-02-12 01:26:54,378] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:26:54,472] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:26:54,584] {logging_mixin.py:115} INFO - [2023-02-12 01:26:54,583] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:26:54,604] {logging_mixin.py:115} INFO - [2023-02-12 01:26:54,604] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:26:54,619] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.243 seconds
+[2023-02-12 01:27:26,191] {processor.py:153} INFO - Started process (PID=21699) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:27:26,191] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:27:26,192] {logging_mixin.py:115} INFO - [2023-02-12 01:27:26,192] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:27:26,227] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:27:26,313] {logging_mixin.py:115} INFO - [2023-02-12 01:27:26,313] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:27:26,333] {logging_mixin.py:115} INFO - [2023-02-12 01:27:26,333] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:27:26,346] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.156 seconds
+[2023-02-12 01:27:57,891] {processor.py:153} INFO - Started process (PID=21745) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:27:57,892] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:27:57,892] {logging_mixin.py:115} INFO - [2023-02-12 01:27:57,892] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:27:58,010] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:27:58,103] {logging_mixin.py:115} INFO - [2023-02-12 01:27:58,103] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:27:58,119] {logging_mixin.py:115} INFO - [2023-02-12 01:27:58,119] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:27:58,133] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.243 seconds
+[2023-02-12 01:28:31,343] {processor.py:153} INFO - Started process (PID=21790) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:28:31,363] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:28:31,365] {logging_mixin.py:115} INFO - [2023-02-12 01:28:31,364] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:28:31,514] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:28:31,704] {logging_mixin.py:115} INFO - [2023-02-12 01:28:31,704] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:28:31,727] {logging_mixin.py:115} INFO - [2023-02-12 01:28:31,727] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:28:31,749] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.407 seconds
+[2023-02-12 01:29:02,912] {processor.py:153} INFO - Started process (PID=21807) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:29:02,912] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:29:02,913] {logging_mixin.py:115} INFO - [2023-02-12 01:29:02,913] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:29:02,935] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:29:03,025] {logging_mixin.py:115} INFO - [2023-02-12 01:29:03,025] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:29:03,047] {logging_mixin.py:115} INFO - [2023-02-12 01:29:03,047] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:29:03,061] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.150 seconds
+[2023-02-12 01:29:50,620] {processor.py:153} INFO - Started process (PID=21832) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:29:50,643] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:29:50,644] {logging_mixin.py:115} INFO - [2023-02-12 01:29:50,643] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:29:50,740] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:29:50,872] {logging_mixin.py:115} INFO - [2023-02-12 01:29:50,872] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:29:50,893] {logging_mixin.py:115} INFO - [2023-02-12 01:29:50,893] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:29:50,907] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.288 seconds
+[2023-02-12 01:30:22,514] {processor.py:153} INFO - Started process (PID=21849) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:30:22,515] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:30:22,515] {logging_mixin.py:115} INFO - [2023-02-12 01:30:22,515] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:30:22,540] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:30:22,636] {logging_mixin.py:115} INFO - [2023-02-12 01:30:22,636] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:30:22,661] {logging_mixin.py:115} INFO - [2023-02-12 01:30:22,661] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:30:22,676] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.163 seconds
+[2023-02-12 01:30:56,693] {processor.py:153} INFO - Started process (PID=21877) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:30:56,717] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:30:56,718] {logging_mixin.py:115} INFO - [2023-02-12 01:30:56,718] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:30:56,908] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:30:57,081] {logging_mixin.py:115} INFO - [2023-02-12 01:30:57,080] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:30:57,111] {logging_mixin.py:115} INFO - [2023-02-12 01:30:57,110] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:30:57,128] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.436 seconds
+[2023-02-12 01:31:28,417] {processor.py:153} INFO - Started process (PID=21917) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:31:28,418] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:31:28,418] {logging_mixin.py:115} INFO - [2023-02-12 01:31:28,418] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:31:28,440] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:31:28,529] {logging_mixin.py:115} INFO - [2023-02-12 01:31:28,529] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:31:28,555] {logging_mixin.py:115} INFO - [2023-02-12 01:31:28,554] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:31:28,575] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.158 seconds
+[2023-02-12 01:32:01,230] {processor.py:153} INFO - Started process (PID=21963) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:32:01,242] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:32:01,242] {logging_mixin.py:115} INFO - [2023-02-12 01:32:01,242] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:32:01,469] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:32:01,737] {logging_mixin.py:115} INFO - [2023-02-12 01:32:01,737] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:32:01,762] {logging_mixin.py:115} INFO - [2023-02-12 01:32:01,762] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:32:01,783] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.554 seconds
+[2023-02-12 01:33:31,923] {processor.py:153} INFO - Started process (PID=21977) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:33:31,978] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:33:31,980] {logging_mixin.py:115} INFO - [2023-02-12 01:33:31,979] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:33:33,215] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:33:34,183] {logging_mixin.py:115} INFO - [2023-02-12 01:33:34,183] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:33:34,205] {logging_mixin.py:115} INFO - [2023-02-12 01:33:34,205] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:33:34,347] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 2.425 seconds
+[2023-02-12 01:34:10,989] {processor.py:153} INFO - Started process (PID=22053) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:34:11,026] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:34:11,027] {logging_mixin.py:115} INFO - [2023-02-12 01:34:11,027] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:34:11,196] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:34:11,569] {logging_mixin.py:115} INFO - [2023-02-12 01:34:11,568] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:34:11,591] {logging_mixin.py:115} INFO - [2023-02-12 01:34:11,591] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:34:11,607] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.618 seconds
+[2023-02-12 01:34:45,292] {processor.py:153} INFO - Started process (PID=22109) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:34:45,312] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:34:45,313] {logging_mixin.py:115} INFO - [2023-02-12 01:34:45,313] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:34:45,432] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:34:45,569] {logging_mixin.py:115} INFO - [2023-02-12 01:34:45,569] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:34:45,589] {logging_mixin.py:115} INFO - [2023-02-12 01:34:45,589] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:34:45,602] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.312 seconds
+[2023-02-12 01:35:17,611] {processor.py:153} INFO - Started process (PID=22153) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:35:17,612] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:35:17,612] {logging_mixin.py:115} INFO - [2023-02-12 01:35:17,612] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:35:17,633] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:35:17,718] {logging_mixin.py:115} INFO - [2023-02-12 01:35:17,718] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:35:17,739] {logging_mixin.py:115} INFO - [2023-02-12 01:35:17,739] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:35:17,752] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.142 seconds
+[2023-02-12 01:35:49,254] {processor.py:153} INFO - Started process (PID=22157) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:35:49,254] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:35:49,254] {logging_mixin.py:115} INFO - [2023-02-12 01:35:49,254] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:35:49,275] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:35:49,337] {logging_mixin.py:115} INFO - [2023-02-12 01:35:49,337] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:35:49,357] {logging_mixin.py:115} INFO - [2023-02-12 01:35:49,357] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:35:49,370] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.117 seconds
+[2023-02-12 01:36:20,805] {processor.py:153} INFO - Started process (PID=22161) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:36:20,805] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:36:20,805] {logging_mixin.py:115} INFO - [2023-02-12 01:36:20,805] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:36:20,827] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:36:20,912] {logging_mixin.py:115} INFO - [2023-02-12 01:36:20,912] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:36:20,932] {logging_mixin.py:115} INFO - [2023-02-12 01:36:20,932] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:36:20,947] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.143 seconds
+[2023-02-12 01:36:52,557] {processor.py:153} INFO - Started process (PID=22176) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:36:52,589] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:36:52,590] {logging_mixin.py:115} INFO - [2023-02-12 01:36:52,590] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:36:52,682] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:36:52,837] {logging_mixin.py:115} INFO - [2023-02-12 01:36:52,837] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:36:52,861] {logging_mixin.py:115} INFO - [2023-02-12 01:36:52,861] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:36:52,876] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.320 seconds
+[2023-02-12 01:37:25,410] {processor.py:153} INFO - Started process (PID=22208) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:37:25,429] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:37:25,430] {logging_mixin.py:115} INFO - [2023-02-12 01:37:25,430] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:37:25,576] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:37:25,761] {logging_mixin.py:115} INFO - [2023-02-12 01:37:25,761] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:37:25,787] {logging_mixin.py:115} INFO - [2023-02-12 01:37:25,787] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:37:25,806] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.397 seconds
+[2023-02-12 01:37:57,712] {processor.py:153} INFO - Started process (PID=22248) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:37:57,734] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:37:57,734] {logging_mixin.py:115} INFO - [2023-02-12 01:37:57,734] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:37:57,921] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:37:58,187] {logging_mixin.py:115} INFO - [2023-02-12 01:37:58,187] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:37:58,209] {logging_mixin.py:115} INFO - [2023-02-12 01:37:58,209] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:37:58,224] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.513 seconds
+[2023-02-12 01:38:30,877] {processor.py:153} INFO - Started process (PID=22285) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:38:30,911] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:38:30,911] {logging_mixin.py:115} INFO - [2023-02-12 01:38:30,911] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:38:31,041] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:38:31,203] {logging_mixin.py:115} INFO - [2023-02-12 01:38:31,203] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:38:31,227] {logging_mixin.py:115} INFO - [2023-02-12 01:38:31,227] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:38:31,242] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.367 seconds
+[2023-02-12 01:39:03,869] {processor.py:153} INFO - Started process (PID=22319) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:39:03,879] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:39:03,879] {logging_mixin.py:115} INFO - [2023-02-12 01:39:03,879] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:39:04,010] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:39:04,191] {logging_mixin.py:115} INFO - [2023-02-12 01:39:04,191] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:39:04,212] {logging_mixin.py:115} INFO - [2023-02-12 01:39:04,212] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:39:04,225] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.356 seconds
+[2023-02-12 01:39:35,643] {processor.py:153} INFO - Started process (PID=22366) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:39:35,661] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:39:35,662] {logging_mixin.py:115} INFO - [2023-02-12 01:39:35,662] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:39:35,790] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:39:35,971] {logging_mixin.py:115} INFO - [2023-02-12 01:39:35,971] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:39:35,993] {logging_mixin.py:115} INFO - [2023-02-12 01:39:35,993] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:39:36,024] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.382 seconds
+[2023-02-12 01:40:07,794] {processor.py:153} INFO - Started process (PID=22399) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:40:07,794] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:40:07,795] {logging_mixin.py:115} INFO - [2023-02-12 01:40:07,795] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:40:07,816] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:40:07,906] {logging_mixin.py:115} INFO - [2023-02-12 01:40:07,906] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:40:07,928] {logging_mixin.py:115} INFO - [2023-02-12 01:40:07,927] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:40:07,942] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.150 seconds
+[2023-02-12 01:41:45,256] {processor.py:153} INFO - Started process (PID=22430) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:41:45,270] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:41:45,270] {logging_mixin.py:115} INFO - [2023-02-12 01:41:45,270] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:41:45,960] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:41:46,262] {logging_mixin.py:115} INFO - [2023-02-12 01:41:46,262] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:41:46,292] {logging_mixin.py:115} INFO - [2023-02-12 01:41:46,292] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:41:46,326] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 1.072 seconds
+[2023-02-12 01:42:18,133] {processor.py:153} INFO - Started process (PID=22433) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:42:18,154] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:42:18,154] {logging_mixin.py:115} INFO - [2023-02-12 01:42:18,154] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:42:18,264] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:42:18,409] {logging_mixin.py:115} INFO - [2023-02-12 01:42:18,409] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:42:18,430] {logging_mixin.py:115} INFO - [2023-02-12 01:42:18,430] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:42:18,527] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.395 seconds
+[2023-02-12 01:42:50,815] {processor.py:153} INFO - Started process (PID=22436) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:42:50,831] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:42:50,832] {logging_mixin.py:115} INFO - [2023-02-12 01:42:50,832] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:42:50,984] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:42:51,125] {logging_mixin.py:115} INFO - [2023-02-12 01:42:51,125] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:42:51,148] {logging_mixin.py:115} INFO - [2023-02-12 01:42:51,148] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:42:51,163] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.350 seconds
+[2023-02-12 01:43:23,326] {processor.py:153} INFO - Started process (PID=22439) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:43:23,351] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:43:23,369] {logging_mixin.py:115} INFO - [2023-02-12 01:43:23,369] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:43:23,624] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:43:23,843] {logging_mixin.py:115} INFO - [2023-02-12 01:43:23,843] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:43:23,864] {logging_mixin.py:115} INFO - [2023-02-12 01:43:23,863] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:43:23,959] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.634 seconds
+[2023-02-12 01:44:00,283] {processor.py:153} INFO - Started process (PID=22441) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:44:00,310] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:44:00,310] {logging_mixin.py:115} INFO - [2023-02-12 01:44:00,310] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:44:00,699] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:44:00,920] {logging_mixin.py:115} INFO - [2023-02-12 01:44:00,920] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:44:00,950] {logging_mixin.py:115} INFO - [2023-02-12 01:44:00,950] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:44:00,967] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.684 seconds
+[2023-02-12 01:44:35,814] {processor.py:153} INFO - Started process (PID=22477) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:44:35,840] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:44:35,841] {logging_mixin.py:115} INFO - [2023-02-12 01:44:35,841] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:44:36,095] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:44:36,295] {logging_mixin.py:115} INFO - [2023-02-12 01:44:36,295] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:44:36,311] {logging_mixin.py:115} INFO - [2023-02-12 01:44:36,311] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:44:36,335] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.522 seconds
+[2023-02-12 01:45:08,671] {processor.py:153} INFO - Started process (PID=22529) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:45:08,671] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:45:08,672] {logging_mixin.py:115} INFO - [2023-02-12 01:45:08,671] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:45:08,713] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:45:08,844] {logging_mixin.py:115} INFO - [2023-02-12 01:45:08,844] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:45:08,868] {logging_mixin.py:115} INFO - [2023-02-12 01:45:08,868] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:45:08,884] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.215 seconds
+[2023-02-12 01:45:40,228] {processor.py:153} INFO - Started process (PID=22572) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:45:40,228] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:45:40,228] {logging_mixin.py:115} INFO - [2023-02-12 01:45:40,228] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:45:40,249] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:45:40,330] {logging_mixin.py:115} INFO - [2023-02-12 01:45:40,329] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:45:40,350] {logging_mixin.py:115} INFO - [2023-02-12 01:45:40,350] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:45:40,364] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.137 seconds
+[2023-02-12 01:46:12,039] {processor.py:153} INFO - Started process (PID=22604) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:46:12,039] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:46:12,039] {logging_mixin.py:115} INFO - [2023-02-12 01:46:12,039] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:46:12,066] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:46:12,195] {logging_mixin.py:115} INFO - [2023-02-12 01:46:12,195] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:46:12,224] {logging_mixin.py:115} INFO - [2023-02-12 01:46:12,223] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:46:12,242] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.204 seconds
+[2023-02-12 01:46:44,627] {processor.py:153} INFO - Started process (PID=22638) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:46:44,627] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:46:44,628] {logging_mixin.py:115} INFO - [2023-02-12 01:46:44,628] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:46:44,775] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:46:44,935] {logging_mixin.py:115} INFO - [2023-02-12 01:46:44,935] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:46:44,957] {logging_mixin.py:115} INFO - [2023-02-12 01:46:44,957] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:46:44,971] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.345 seconds
+[2023-02-12 01:47:16,390] {processor.py:153} INFO - Started process (PID=22674) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:47:16,390] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:47:16,390] {logging_mixin.py:115} INFO - [2023-02-12 01:47:16,390] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:47:16,412] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:47:16,502] {logging_mixin.py:115} INFO - [2023-02-12 01:47:16,502] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:47:16,524] {logging_mixin.py:115} INFO - [2023-02-12 01:47:16,524] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:47:16,538] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.149 seconds
+[2023-02-12 01:47:51,604] {processor.py:153} INFO - Started process (PID=22702) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:47:51,612] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:47:51,613] {logging_mixin.py:115} INFO - [2023-02-12 01:47:51,613] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:47:51,799] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:47:51,935] {logging_mixin.py:115} INFO - [2023-02-12 01:47:51,934] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:47:51,956] {logging_mixin.py:115} INFO - [2023-02-12 01:47:51,956] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:47:51,985] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.383 seconds
+[2023-02-12 01:48:23,338] {processor.py:153} INFO - Started process (PID=22746) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:48:23,338] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:48:23,338] {logging_mixin.py:115} INFO - [2023-02-12 01:48:23,338] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:48:23,361] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:48:23,460] {logging_mixin.py:115} INFO - [2023-02-12 01:48:23,460] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:48:23,485] {logging_mixin.py:115} INFO - [2023-02-12 01:48:23,485] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:48:23,504] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.167 seconds
+[2023-02-12 01:48:54,918] {processor.py:153} INFO - Started process (PID=22774) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:48:54,918] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:48:54,920] {logging_mixin.py:115} INFO - [2023-02-12 01:48:54,920] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:48:54,945] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:48:55,055] {logging_mixin.py:115} INFO - [2023-02-12 01:48:55,055] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:48:55,077] {logging_mixin.py:115} INFO - [2023-02-12 01:48:55,077] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:48:55,093] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.176 seconds
+[2023-02-12 01:49:29,938] {processor.py:153} INFO - Started process (PID=22811) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:49:29,957] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:49:29,958] {logging_mixin.py:115} INFO - [2023-02-12 01:49:29,958] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:49:30,092] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:49:30,280] {logging_mixin.py:115} INFO - [2023-02-12 01:49:30,280] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:49:30,304] {logging_mixin.py:115} INFO - [2023-02-12 01:49:30,304] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:49:30,318] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.381 seconds
+[2023-02-12 01:50:01,758] {processor.py:153} INFO - Started process (PID=22856) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:50:01,758] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:50:01,759] {logging_mixin.py:115} INFO - [2023-02-12 01:50:01,759] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:50:01,781] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:50:01,872] {logging_mixin.py:115} INFO - [2023-02-12 01:50:01,872] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:50:01,893] {logging_mixin.py:115} INFO - [2023-02-12 01:50:01,893] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:50:01,908] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.151 seconds
+[2023-02-12 01:50:33,229] {processor.py:153} INFO - Started process (PID=22891) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:50:33,229] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:50:33,230] {logging_mixin.py:115} INFO - [2023-02-12 01:50:33,230] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:50:33,254] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:50:33,346] {logging_mixin.py:115} INFO - [2023-02-12 01:50:33,345] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:50:33,367] {logging_mixin.py:115} INFO - [2023-02-12 01:50:33,367] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:50:33,382] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.154 seconds
+[2023-02-12 01:51:04,668] {processor.py:153} INFO - Started process (PID=22924) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:51:04,668] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:51:04,669] {logging_mixin.py:115} INFO - [2023-02-12 01:51:04,668] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:51:04,701] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:51:04,799] {logging_mixin.py:115} INFO - [2023-02-12 01:51:04,799] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:51:04,820] {logging_mixin.py:115} INFO - [2023-02-12 01:51:04,820] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:51:04,835] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.168 seconds
+[2023-02-12 01:51:36,231] {processor.py:153} INFO - Started process (PID=22956) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:51:36,231] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:51:36,232] {logging_mixin.py:115} INFO - [2023-02-12 01:51:36,231] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:51:36,270] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:51:36,360] {logging_mixin.py:115} INFO - [2023-02-12 01:51:36,359] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:51:36,381] {logging_mixin.py:115} INFO - [2023-02-12 01:51:36,381] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:51:36,398] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.168 seconds
+[2023-02-12 01:52:07,711] {processor.py:153} INFO - Started process (PID=22992) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:52:07,711] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:52:07,711] {logging_mixin.py:115} INFO - [2023-02-12 01:52:07,711] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:52:07,735] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:52:07,826] {logging_mixin.py:115} INFO - [2023-02-12 01:52:07,826] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:52:07,847] {logging_mixin.py:115} INFO - [2023-02-12 01:52:07,847] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:52:07,863] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.153 seconds
+[2023-02-12 01:52:39,206] {processor.py:153} INFO - Started process (PID=23025) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:52:39,206] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:52:39,207] {logging_mixin.py:115} INFO - [2023-02-12 01:52:39,207] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:52:39,230] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:52:39,320] {logging_mixin.py:115} INFO - [2023-02-12 01:52:39,320] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:52:39,341] {logging_mixin.py:115} INFO - [2023-02-12 01:52:39,341] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:52:39,654] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.449 seconds
+[2023-02-12 01:53:11,694] {processor.py:153} INFO - Started process (PID=23053) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:53:11,695] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:53:11,695] {logging_mixin.py:115} INFO - [2023-02-12 01:53:11,695] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:53:11,725] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:53:11,884] {logging_mixin.py:115} INFO - [2023-02-12 01:53:11,884] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:53:11,908] {logging_mixin.py:115} INFO - [2023-02-12 01:53:11,908] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:53:11,957] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.263 seconds
+[2023-02-12 01:53:43,592] {processor.py:153} INFO - Started process (PID=23101) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:53:43,592] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:53:43,593] {logging_mixin.py:115} INFO - [2023-02-12 01:53:43,592] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:53:43,615] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:53:43,703] {logging_mixin.py:115} INFO - [2023-02-12 01:53:43,703] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:53:43,725] {logging_mixin.py:115} INFO - [2023-02-12 01:53:43,725] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:53:43,740] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.149 seconds
+[2023-02-12 01:54:15,627] {processor.py:153} INFO - Started process (PID=23139) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:54:15,627] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:54:15,628] {logging_mixin.py:115} INFO - [2023-02-12 01:54:15,628] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:54:15,668] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:54:15,798] {logging_mixin.py:115} INFO - [2023-02-12 01:54:15,798] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:54:15,829] {logging_mixin.py:115} INFO - [2023-02-12 01:54:15,829] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:54:15,854] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.228 seconds
+[2023-02-12 01:54:48,603] {processor.py:153} INFO - Started process (PID=23169) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:54:48,604] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:54:48,605] {logging_mixin.py:115} INFO - [2023-02-12 01:54:48,605] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:54:48,658] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:54:48,755] {logging_mixin.py:115} INFO - [2023-02-12 01:54:48,754] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:54:48,779] {logging_mixin.py:115} INFO - [2023-02-12 01:54:48,779] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:54:48,803] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.201 seconds
+[2023-02-12 01:55:20,895] {processor.py:153} INFO - Started process (PID=23200) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:55:20,895] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:55:20,896] {logging_mixin.py:115} INFO - [2023-02-12 01:55:20,896] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:55:20,925] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:55:21,040] {logging_mixin.py:115} INFO - [2023-02-12 01:55:21,039] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:55:21,068] {logging_mixin.py:115} INFO - [2023-02-12 01:55:21,068] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:55:21,085] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.190 seconds
+[2023-02-12 01:55:52,748] {processor.py:153} INFO - Started process (PID=23230) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:55:52,749] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:55:52,749] {logging_mixin.py:115} INFO - [2023-02-12 01:55:52,749] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:55:52,796] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:55:52,884] {logging_mixin.py:115} INFO - [2023-02-12 01:55:52,883] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:55:52,905] {logging_mixin.py:115} INFO - [2023-02-12 01:55:52,905] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:55:52,968] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.221 seconds
+[2023-02-12 01:56:27,988] {processor.py:153} INFO - Started process (PID=23264) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:56:28,024] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:56:28,025] {logging_mixin.py:115} INFO - [2023-02-12 01:56:28,025] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:56:28,283] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:56:28,564] {logging_mixin.py:115} INFO - [2023-02-12 01:56:28,563] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:56:28,579] {logging_mixin.py:115} INFO - [2023-02-12 01:56:28,579] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:56:28,641] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.654 seconds
+[2023-02-12 01:57:04,430] {processor.py:153} INFO - Started process (PID=23298) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:57:04,465] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:57:04,466] {logging_mixin.py:115} INFO - [2023-02-12 01:57:04,466] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:57:04,644] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:57:04,861] {logging_mixin.py:115} INFO - [2023-02-12 01:57:04,861] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:57:04,884] {logging_mixin.py:115} INFO - [2023-02-12 01:57:04,884] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:57:04,935] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.507 seconds
+[2023-02-12 01:57:39,384] {processor.py:153} INFO - Started process (PID=23331) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:57:39,384] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:57:39,385] {logging_mixin.py:115} INFO - [2023-02-12 01:57:39,385] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:57:39,608] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:57:39,874] {logging_mixin.py:115} INFO - [2023-02-12 01:57:39,873] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:57:39,895] {logging_mixin.py:115} INFO - [2023-02-12 01:57:39,895] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:57:39,913] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.530 seconds
+[2023-02-12 01:58:13,957] {processor.py:153} INFO - Started process (PID=23358) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:58:13,969] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:58:13,970] {logging_mixin.py:115} INFO - [2023-02-12 01:58:13,970] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:58:14,600] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:58:14,958] {logging_mixin.py:115} INFO - [2023-02-12 01:58:14,958] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:58:14,981] {logging_mixin.py:115} INFO - [2023-02-12 01:58:14,981] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:58:15,038] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 1.082 seconds
+[2023-02-12 01:58:58,845] {processor.py:153} INFO - Started process (PID=23378) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:58:58,860] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 01:58:58,861] {logging_mixin.py:115} INFO - [2023-02-12 01:58:58,860] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:58:58,918] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 01:58:59,011] {logging_mixin.py:115} INFO - [2023-02-12 01:58:59,011] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:58:59,033] {logging_mixin.py:115} INFO - [2023-02-12 01:58:59,033] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 01:58:59,069] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.225 seconds
+[2023-02-12 02:00:17,739] {processor.py:153} INFO - Started process (PID=23413) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:00:17,742] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 02:00:17,743] {logging_mixin.py:115} INFO - [2023-02-12 02:00:17,743] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:00:17,863] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:00:17,948] {logging_mixin.py:115} INFO - [2023-02-12 02:00:17,948] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:00:17,967] {logging_mixin.py:115} INFO - [2023-02-12 02:00:17,967] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 02:00:17,982] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.244 seconds
+[2023-02-12 02:00:54,388] {processor.py:153} INFO - Started process (PID=23437) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:00:54,402] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 02:00:54,403] {logging_mixin.py:115} INFO - [2023-02-12 02:00:54,403] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:00:54,464] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:00:54,558] {logging_mixin.py:115} INFO - [2023-02-12 02:00:54,557] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:00:54,581] {logging_mixin.py:115} INFO - [2023-02-12 02:00:54,581] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 02:00:54,597] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.211 seconds
+[2023-02-12 02:01:36,994] {processor.py:153} INFO - Started process (PID=23447) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:01:37,011] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 02:01:37,012] {logging_mixin.py:115} INFO - [2023-02-12 02:01:37,012] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:01:37,139] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:01:37,228] {logging_mixin.py:115} INFO - [2023-02-12 02:01:37,228] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:01:37,249] {logging_mixin.py:115} INFO - [2023-02-12 02:01:37,249] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 02:01:37,263] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.270 seconds
+[2023-02-12 02:02:59,791] {processor.py:153} INFO - Started process (PID=23541) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:02:59,806] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 02:02:59,807] {logging_mixin.py:115} INFO - [2023-02-12 02:02:59,807] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:02:59,902] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:02:59,986] {logging_mixin.py:115} INFO - [2023-02-12 02:02:59,986] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:03:00,007] {logging_mixin.py:115} INFO - [2023-02-12 02:03:00,007] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 02:03:00,022] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.232 seconds
+[2023-02-12 02:03:48,598] {processor.py:153} INFO - Started process (PID=23581) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:03:48,618] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 02:03:48,619] {logging_mixin.py:115} INFO - [2023-02-12 02:03:48,619] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:03:48,729] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:03:48,819] {logging_mixin.py:115} INFO - [2023-02-12 02:03:48,818] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:03:48,840] {logging_mixin.py:115} INFO - [2023-02-12 02:03:48,840] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 02:03:48,854] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.257 seconds
+[2023-02-12 02:04:20,778] {processor.py:153} INFO - Started process (PID=23595) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:04:20,778] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 02:04:20,779] {logging_mixin.py:115} INFO - [2023-02-12 02:04:20,779] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:04:20,799] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:04:20,882] {logging_mixin.py:115} INFO - [2023-02-12 02:04:20,882] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:04:20,903] {logging_mixin.py:115} INFO - [2023-02-12 02:04:20,903] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 02:04:21,153] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.376 seconds
+[2023-02-12 02:04:53,101] {processor.py:153} INFO - Started process (PID=23608) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:04:53,101] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 02:04:53,102] {logging_mixin.py:115} INFO - [2023-02-12 02:04:53,102] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:04:53,125] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:04:53,210] {logging_mixin.py:115} INFO - [2023-02-12 02:04:53,210] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:04:53,230] {logging_mixin.py:115} INFO - [2023-02-12 02:04:53,230] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 02:04:53,244] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.144 seconds
+[2023-02-12 02:05:25,626] {processor.py:153} INFO - Started process (PID=23647) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:05:25,626] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 02:05:25,627] {logging_mixin.py:115} INFO - [2023-02-12 02:05:25,626] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:05:25,648] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:05:25,739] {logging_mixin.py:115} INFO - [2023-02-12 02:05:25,739] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:05:25,764] {logging_mixin.py:115} INFO - [2023-02-12 02:05:25,764] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 02:05:25,795] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.170 seconds
+[2023-02-12 02:05:58,022] {processor.py:153} INFO - Started process (PID=23684) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:05:58,022] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 02:05:58,023] {logging_mixin.py:115} INFO - [2023-02-12 02:05:58,023] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:05:58,044] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:05:58,126] {logging_mixin.py:115} INFO - [2023-02-12 02:05:58,126] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:05:58,145] {logging_mixin.py:115} INFO - [2023-02-12 02:05:58,145] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 02:05:58,159] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.137 seconds
+[2023-02-12 02:06:29,693] {processor.py:153} INFO - Started process (PID=23707) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:06:29,693] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 02:06:29,693] {logging_mixin.py:115} INFO - [2023-02-12 02:06:29,693] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:06:29,714] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:06:29,799] {logging_mixin.py:115} INFO - [2023-02-12 02:06:29,799] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:06:29,819] {logging_mixin.py:115} INFO - [2023-02-12 02:06:29,819] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 02:06:29,834] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.142 seconds
+[2023-02-12 02:07:01,541] {processor.py:153} INFO - Started process (PID=23709) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:07:01,541] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 02:07:01,542] {logging_mixin.py:115} INFO - [2023-02-12 02:07:01,542] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:07:01,563] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:07:01,651] {logging_mixin.py:115} INFO - [2023-02-12 02:07:01,651] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:07:01,672] {logging_mixin.py:115} INFO - [2023-02-12 02:07:01,672] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 02:07:01,686] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.146 seconds
+[2023-02-12 02:07:54,068] {processor.py:153} INFO - Started process (PID=23730) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:07:54,082] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 02:07:54,083] {logging_mixin.py:115} INFO - [2023-02-12 02:07:54,083] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:07:54,123] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:07:54,210] {logging_mixin.py:115} INFO - [2023-02-12 02:07:54,210] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:07:54,231] {logging_mixin.py:115} INFO - [2023-02-12 02:07:54,231] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 02:07:54,244] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.177 seconds
+[2023-02-12 02:08:28,928] {processor.py:153} INFO - Started process (PID=23756) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:08:29,011] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 02:08:29,012] {logging_mixin.py:115} INFO - [2023-02-12 02:08:29,012] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:08:29,073] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:08:29,168] {logging_mixin.py:115} INFO - [2023-02-12 02:08:29,168] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:08:29,190] {logging_mixin.py:115} INFO - [2023-02-12 02:08:29,190] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 02:08:29,205] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.278 seconds
+[2023-02-12 02:09:01,570] {processor.py:153} INFO - Started process (PID=23787) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:09:01,570] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 02:09:01,570] {logging_mixin.py:115} INFO - [2023-02-12 02:09:01,570] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:09:01,592] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:09:01,669] {logging_mixin.py:115} INFO - [2023-02-12 02:09:01,669] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:09:01,688] {logging_mixin.py:115} INFO - [2023-02-12 02:09:01,688] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 02:09:01,701] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.132 seconds
+[2023-02-12 02:09:41,475] {processor.py:153} INFO - Started process (PID=23814) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:09:41,494] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 02:09:41,495] {logging_mixin.py:115} INFO - [2023-02-12 02:09:41,494] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:09:41,597] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:09:41,681] {logging_mixin.py:115} INFO - [2023-02-12 02:09:41,681] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:09:41,701] {logging_mixin.py:115} INFO - [2023-02-12 02:09:41,700] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 02:09:41,728] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.254 seconds
+[2023-02-12 02:10:15,768] {processor.py:153} INFO - Started process (PID=23840) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:10:15,769] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 02:10:15,769] {logging_mixin.py:115} INFO - [2023-02-12 02:10:15,769] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:10:15,800] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:10:15,899] {logging_mixin.py:115} INFO - [2023-02-12 02:10:15,899] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:10:15,921] {logging_mixin.py:115} INFO - [2023-02-12 02:10:15,921] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 02:10:15,935] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.168 seconds
+[2023-02-12 02:10:47,937] {processor.py:153} INFO - Started process (PID=23851) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:10:47,937] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 02:10:47,937] {logging_mixin.py:115} INFO - [2023-02-12 02:10:47,937] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:10:47,960] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:10:48,046] {logging_mixin.py:115} INFO - [2023-02-12 02:10:48,045] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:10:48,065] {logging_mixin.py:115} INFO - [2023-02-12 02:10:48,065] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 02:10:48,079] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.143 seconds
+[2023-02-12 02:11:37,909] {processor.py:153} INFO - Started process (PID=23867) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:11:37,919] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 02:11:37,920] {logging_mixin.py:115} INFO - [2023-02-12 02:11:37,919] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:11:38,028] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:11:38,117] {logging_mixin.py:115} INFO - [2023-02-12 02:11:38,117] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:11:38,138] {logging_mixin.py:115} INFO - [2023-02-12 02:11:38,138] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 02:11:38,152] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.244 seconds
+[2023-02-12 02:12:31,541] {processor.py:153} INFO - Started process (PID=23947) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:12:31,571] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 02:12:31,572] {logging_mixin.py:115} INFO - [2023-02-12 02:12:31,572] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:12:31,595] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:12:31,688] {logging_mixin.py:115} INFO - [2023-02-12 02:12:31,687] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:12:31,709] {logging_mixin.py:115} INFO - [2023-02-12 02:12:31,709] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 02:12:31,806] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.265 seconds
+[2023-02-12 02:13:05,636] {processor.py:153} INFO - Started process (PID=23967) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:13:05,636] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 02:13:05,637] {logging_mixin.py:115} INFO - [2023-02-12 02:13:05,636] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:13:05,659] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:13:05,747] {logging_mixin.py:115} INFO - [2023-02-12 02:13:05,747] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:13:05,767] {logging_mixin.py:115} INFO - [2023-02-12 02:13:05,767] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 02:13:05,780] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.145 seconds
+[2023-02-12 02:13:41,690] {processor.py:153} INFO - Started process (PID=23975) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:13:41,703] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 02:13:41,704] {logging_mixin.py:115} INFO - [2023-02-12 02:13:41,704] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:13:41,798] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:13:41,883] {logging_mixin.py:115} INFO - [2023-02-12 02:13:41,883] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:13:41,903] {logging_mixin.py:115} INFO - [2023-02-12 02:13:41,903] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 02:13:41,917] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.227 seconds
+[2023-02-12 02:14:21,910] {processor.py:153} INFO - Started process (PID=24013) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:14:21,984] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 02:14:21,985] {logging_mixin.py:115} INFO - [2023-02-12 02:14:21,985] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:14:22,413] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:14:22,510] {logging_mixin.py:115} INFO - [2023-02-12 02:14:22,510] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:14:22,531] {logging_mixin.py:115} INFO - [2023-02-12 02:14:22,531] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 02:14:22,755] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.846 seconds
+[2023-02-12 02:14:54,954] {processor.py:153} INFO - Started process (PID=24019) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:14:54,954] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 02:14:54,955] {logging_mixin.py:115} INFO - [2023-02-12 02:14:54,954] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:14:55,011] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:14:55,095] {logging_mixin.py:115} INFO - [2023-02-12 02:14:55,095] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:14:55,115] {logging_mixin.py:115} INFO - [2023-02-12 02:14:55,115] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 02:14:55,128] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.176 seconds
+[2023-02-12 02:15:28,705] {processor.py:153} INFO - Started process (PID=24025) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:15:28,705] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 02:15:28,706] {logging_mixin.py:115} INFO - [2023-02-12 02:15:28,706] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:15:28,726] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:15:28,811] {logging_mixin.py:115} INFO - [2023-02-12 02:15:28,810] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:15:28,830] {logging_mixin.py:115} INFO - [2023-02-12 02:15:28,830] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 02:15:28,845] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.141 seconds
+[2023-02-12 02:16:00,489] {processor.py:153} INFO - Started process (PID=24053) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:16:00,490] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 02:16:00,490] {logging_mixin.py:115} INFO - [2023-02-12 02:16:00,490] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:16:00,511] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:16:00,595] {logging_mixin.py:115} INFO - [2023-02-12 02:16:00,595] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:16:00,615] {logging_mixin.py:115} INFO - [2023-02-12 02:16:00,615] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 02:16:00,629] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.140 seconds
+[2023-02-12 02:16:33,177] {processor.py:153} INFO - Started process (PID=24080) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:16:33,178] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 02:16:33,178] {logging_mixin.py:115} INFO - [2023-02-12 02:16:33,178] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:16:33,204] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:16:33,302] {logging_mixin.py:115} INFO - [2023-02-12 02:16:33,302] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:16:33,325] {logging_mixin.py:115} INFO - [2023-02-12 02:16:33,325] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 02:16:33,342] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.166 seconds
+[2023-02-12 02:17:05,389] {processor.py:153} INFO - Started process (PID=24099) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:17:05,389] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 02:17:05,390] {logging_mixin.py:115} INFO - [2023-02-12 02:17:05,390] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:17:05,411] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:17:05,497] {logging_mixin.py:115} INFO - [2023-02-12 02:17:05,497] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:17:05,517] {logging_mixin.py:115} INFO - [2023-02-12 02:17:05,517] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 02:17:05,532] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.144 seconds
+[2023-02-12 02:17:39,246] {processor.py:153} INFO - Started process (PID=24124) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:17:39,246] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 02:17:39,247] {logging_mixin.py:115} INFO - [2023-02-12 02:17:39,247] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:17:39,267] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:17:39,351] {logging_mixin.py:115} INFO - [2023-02-12 02:17:39,351] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:17:39,370] {logging_mixin.py:115} INFO - [2023-02-12 02:17:39,370] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 02:17:39,384] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.138 seconds
+[2023-02-12 02:18:14,972] {processor.py:153} INFO - Started process (PID=24159) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:18:14,992] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 02:18:14,993] {logging_mixin.py:115} INFO - [2023-02-12 02:18:14,993] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:18:15,110] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:18:15,216] {logging_mixin.py:115} INFO - [2023-02-12 02:18:15,215] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:18:15,243] {logging_mixin.py:115} INFO - [2023-02-12 02:18:15,242] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 02:18:15,257] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.286 seconds
+[2023-02-12 02:18:46,489] {processor.py:153} INFO - Started process (PID=24198) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:18:46,527] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 02:18:46,528] {logging_mixin.py:115} INFO - [2023-02-12 02:18:46,528] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:18:46,588] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:18:46,673] {logging_mixin.py:115} INFO - [2023-02-12 02:18:46,672] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:18:46,692] {logging_mixin.py:115} INFO - [2023-02-12 02:18:46,692] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 02:18:46,716] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.228 seconds
+[2023-02-12 02:19:18,006] {processor.py:153} INFO - Started process (PID=24210) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:19:18,007] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 02:19:18,007] {logging_mixin.py:115} INFO - [2023-02-12 02:19:18,007] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:19:18,028] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:19:18,122] {logging_mixin.py:115} INFO - [2023-02-12 02:19:18,121] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:19:18,141] {logging_mixin.py:115} INFO - [2023-02-12 02:19:18,141] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 02:19:18,173] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.168 seconds
+[2023-02-12 02:19:59,626] {processor.py:153} INFO - Started process (PID=24243) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:19:59,647] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 02:19:59,648] {logging_mixin.py:115} INFO - [2023-02-12 02:19:59,648] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:19:59,914] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:20:00,002] {logging_mixin.py:115} INFO - [2023-02-12 02:20:00,002] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:20:00,028] {logging_mixin.py:115} INFO - [2023-02-12 02:20:00,028] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 02:20:00,233] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.608 seconds
+[2023-02-12 02:20:34,607] {processor.py:153} INFO - Started process (PID=24268) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:20:34,628] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 02:20:34,629] {logging_mixin.py:115} INFO - [2023-02-12 02:20:34,629] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:20:34,716] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:20:34,813] {logging_mixin.py:115} INFO - [2023-02-12 02:20:34,813] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:20:34,832] {logging_mixin.py:115} INFO - [2023-02-12 02:20:34,832] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 02:20:34,846] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.240 seconds
+[2023-02-12 02:21:13,887] {processor.py:153} INFO - Started process (PID=24296) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:21:13,894] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 02:21:13,895] {logging_mixin.py:115} INFO - [2023-02-12 02:21:13,895] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:21:14,017] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:21:14,108] {logging_mixin.py:115} INFO - [2023-02-12 02:21:14,108] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:21:14,129] {logging_mixin.py:115} INFO - [2023-02-12 02:21:14,129] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 02:21:14,145] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.259 seconds
+[2023-02-12 02:21:46,480] {processor.py:153} INFO - Started process (PID=24379) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:21:46,481] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 02:21:46,481] {logging_mixin.py:115} INFO - [2023-02-12 02:21:46,481] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:21:46,503] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:21:46,591] {logging_mixin.py:115} INFO - [2023-02-12 02:21:46,591] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:21:46,612] {logging_mixin.py:115} INFO - [2023-02-12 02:21:46,612] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 02:21:46,640] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.160 seconds
+[2023-02-12 02:22:23,548] {processor.py:153} INFO - Started process (PID=24412) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:22:23,564] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 02:22:23,565] {logging_mixin.py:115} INFO - [2023-02-12 02:22:23,564] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:22:23,629] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:22:23,742] {logging_mixin.py:115} INFO - [2023-02-12 02:22:23,741] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:22:23,767] {logging_mixin.py:115} INFO - [2023-02-12 02:22:23,767] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 02:22:23,808] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.261 seconds
+[2023-02-12 02:23:03,058] {processor.py:153} INFO - Started process (PID=24422) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:23:03,076] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 02:23:03,077] {logging_mixin.py:115} INFO - [2023-02-12 02:23:03,077] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:23:03,146] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:23:03,237] {logging_mixin.py:115} INFO - [2023-02-12 02:23:03,237] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:23:03,259] {logging_mixin.py:115} INFO - [2023-02-12 02:23:03,259] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 02:23:03,273] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.215 seconds
+[2023-02-12 02:23:37,452] {processor.py:153} INFO - Started process (PID=24441) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:23:37,469] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 02:23:37,470] {logging_mixin.py:115} INFO - [2023-02-12 02:23:37,470] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:23:37,576] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:23:37,660] {logging_mixin.py:115} INFO - [2023-02-12 02:23:37,660] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:23:37,680] {logging_mixin.py:115} INFO - [2023-02-12 02:23:37,680] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 02:23:37,709] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.257 seconds
+[2023-02-12 02:24:08,914] {processor.py:153} INFO - Started process (PID=24445) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:24:08,915] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 02:24:08,915] {logging_mixin.py:115} INFO - [2023-02-12 02:24:08,915] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:24:08,936] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:24:09,019] {logging_mixin.py:115} INFO - [2023-02-12 02:24:09,019] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:24:09,039] {logging_mixin.py:115} INFO - [2023-02-12 02:24:09,039] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 02:24:09,053] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.139 seconds
+[2023-02-12 02:24:43,618] {processor.py:153} INFO - Started process (PID=24450) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:24:43,629] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 02:24:43,630] {logging_mixin.py:115} INFO - [2023-02-12 02:24:43,630] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:24:43,704] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:24:43,788] {logging_mixin.py:115} INFO - [2023-02-12 02:24:43,788] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:24:43,808] {logging_mixin.py:115} INFO - [2023-02-12 02:24:43,808] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 02:24:43,832] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.215 seconds
+[2023-02-12 02:25:15,802] {processor.py:153} INFO - Started process (PID=24456) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:25:15,802] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 02:25:15,803] {logging_mixin.py:115} INFO - [2023-02-12 02:25:15,802] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:25:15,824] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:25:15,908] {logging_mixin.py:115} INFO - [2023-02-12 02:25:15,908] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:25:15,928] {logging_mixin.py:115} INFO - [2023-02-12 02:25:15,928] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 02:25:15,941] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.140 seconds
+[2023-02-12 02:25:47,693] {processor.py:153} INFO - Started process (PID=24458) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:25:47,693] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 02:25:47,694] {logging_mixin.py:115} INFO - [2023-02-12 02:25:47,694] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:25:47,715] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:25:47,798] {logging_mixin.py:115} INFO - [2023-02-12 02:25:47,798] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:25:47,817] {logging_mixin.py:115} INFO - [2023-02-12 02:25:47,817] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 02:25:47,832] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.140 seconds
+[2023-02-12 02:26:19,535] {processor.py:153} INFO - Started process (PID=24460) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:26:19,535] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 02:26:19,535] {logging_mixin.py:115} INFO - [2023-02-12 02:26:19,535] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:26:19,556] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:26:19,640] {logging_mixin.py:115} INFO - [2023-02-12 02:26:19,640] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:26:19,660] {logging_mixin.py:115} INFO - [2023-02-12 02:26:19,659] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 02:26:19,674] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.140 seconds
+[2023-02-12 02:26:51,444] {processor.py:153} INFO - Started process (PID=24462) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:26:51,444] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 02:26:51,444] {logging_mixin.py:115} INFO - [2023-02-12 02:26:51,444] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:26:51,465] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:26:51,550] {logging_mixin.py:115} INFO - [2023-02-12 02:26:51,549] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:26:51,569] {logging_mixin.py:115} INFO - [2023-02-12 02:26:51,569] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 02:26:51,585] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.142 seconds
+[2023-02-12 02:27:23,399] {processor.py:153} INFO - Started process (PID=24466) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:27:23,400] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py for tasks to queue
+[2023-02-12 02:27:23,400] {logging_mixin.py:115} INFO - [2023-02-12 02:27:23,400] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:27:23,421] {processor.py:651} INFO - DAG(s) dict_keys(['primeiro_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py
+[2023-02-12 02:27:23,501] {logging_mixin.py:115} INFO - [2023-02-12 02:27:23,501] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:27:23,521] {logging_mixin.py:115} INFO - [2023-02-12 02:27:23,521] {dag.py:2927} INFO - Setting next_dagrun for primeiro_dag to 2023-02-12T00:00:00+00:00, run_after=2023-02-13T00:00:00+00:00
+[2023-02-12 02:27:23,535] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py took 0.136 seconds

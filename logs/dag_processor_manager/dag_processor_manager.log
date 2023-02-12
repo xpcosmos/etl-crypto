@@ -151,3 +151,1089 @@ File Path                                                               PID    R
 ----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
 /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                           1           0  6.12s           2023-02-12T04:15:49
 ================================================================================
+[2023-02-12 01:16:23,541] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                           1           0  3.60s           2023-02-12T04:16:23
+================================================================================
+[2023-02-12 01:16:56,098] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                           1           0  2.35s           2023-02-12T04:16:56
+================================================================================
+[2023-02-12 01:17:27,601] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                           1           0  1.38s           2023-02-12T04:17:27
+================================================================================
+[2023-02-12 01:18:03,505] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                           1           0  5.79s           2023-02-12T04:18:03
+================================================================================
+[2023-02-12 01:18:37,040] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                           1           0  3.41s           2023-02-12T04:18:37
+================================================================================
+[2023-02-12 01:19:15,319] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                           1           0  8.17s           2023-02-12T04:19:15
+================================================================================
+[2023-02-12 01:20:15,460] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                           1           0  9.00s           2023-02-12T04:20:15
+================================================================================
+[2023-02-12 01:20:20,381] {manager.py:690} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags
+[2023-02-12 01:20:20,385] {manager.py:693} INFO - There are 1 files in /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags
+[2023-02-12 01:20:56,172] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                           1           0  9.86s           2023-02-12T04:20:56
+================================================================================
+[2023-02-12 01:21:28,324] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                           1           0  1.96s           2023-02-12T04:21:28
+================================================================================
+[2023-02-12 01:21:59,862] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                           1           0  1.42s           2023-02-12T04:21:59
+================================================================================
+[2023-02-12 01:22:31,331] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                           1           0  1.34s           2023-02-12T04:22:31
+================================================================================
+[2023-02-12 01:23:03,393] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                           1           0  1.96s           2023-02-12T04:23:03
+================================================================================
+[2023-02-12 01:23:35,956] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                           1           0  2.56s           2023-02-12T04:23:35
+================================================================================
+[2023-02-12 01:24:19,003] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                           1           0  12.88s          2023-02-12T04:24:19
+================================================================================
+[2023-02-12 01:25:18,694] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                           1           0  29.56s          2023-02-12T04:25:18
+================================================================================
+[2023-02-12 01:25:21,428] {manager.py:690} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags
+[2023-02-12 01:25:21,498] {manager.py:693} INFO - There are 1 files in /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags
+[2023-02-12 01:25:51,350] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                           1           0  2.50s           2023-02-12T04:25:51
+================================================================================
+[2023-02-12 01:26:22,869] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                           1           0  1.42s           2023-02-12T04:26:22
+================================================================================
+[2023-02-12 01:26:54,818] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                           1           0  1.85s           2023-02-12T04:26:54
+================================================================================
+[2023-02-12 01:27:26,514] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                           1           0  1.49s           2023-02-12T04:27:26
+================================================================================
+[2023-02-12 01:27:58,307] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                           1           0  1.70s           2023-02-12T04:27:58
+================================================================================
+[2023-02-12 01:28:31,944] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                           1           0  3.54s           2023-02-12T04:28:31
+================================================================================
+[2023-02-12 01:29:03,249] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                           1           0  1.20s           2023-02-12T04:29:03
+================================================================================
+[2023-02-12 01:29:51,096] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                           1           0  17.75s          2023-02-12T04:29:51
+================================================================================
+[2023-02-12 01:30:22,854] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                           1           0  1.64s           2023-02-12T04:30:22
+================================================================================
+[2023-02-12 01:30:23,911] {manager.py:690} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags
+[2023-02-12 01:30:23,915] {manager.py:693} INFO - There are 2 files in /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags
+[2023-02-12 01:30:57,312] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           0           1  1.29s           2023-02-12T04:30:25
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  4.36s           2023-02-12T04:30:57
+================================================================================
+[2023-02-12 01:31:28,839] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           0           1  1.50s           2023-02-12T04:30:59
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  1.42s           2023-02-12T04:31:28
+================================================================================
+[2023-02-12 01:32:01,988] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           0           1  1.59s           2023-02-12T04:31:31
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  3.01s           2023-02-12T04:32:01
+================================================================================
+[2023-02-12 01:33:34,591] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           0           1  2.24s           2023-02-12T04:32:05
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  62.50s          2023-02-12T04:33:34
+================================================================================
+[2023-02-12 01:34:11,829] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           0           1  16.38s          2023-02-12T04:33:52
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  7.01s           2023-02-12T04:34:11
+================================================================================
+[2023-02-12 01:34:45,802] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           0           1  14.43s          2023-02-12T04:34:37
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  3.66s           2023-02-12T04:34:45
+================================================================================
+[2023-02-12 01:35:17,931] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           0           1  1.75s           2023-02-12T04:35:08
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  1.30s           2023-02-12T04:35:17
+================================================================================
+[2023-02-12 01:35:23,977] {manager.py:690} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags
+[2023-02-12 01:35:23,980] {manager.py:693} INFO - There are 2 files in /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags
+[2023-02-12 01:35:49,537] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           0           1  1.14s           2023-02-12T04:35:40
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  1.22s           2023-02-12T04:35:49
+================================================================================
+[2023-02-12 01:36:21,123] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           0           1  1.13s           2023-02-12T04:36:11
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  1.26s           2023-02-12T04:36:21
+================================================================================
+[2023-02-12 01:36:53,066] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           0           1  4.23s           2023-02-12T04:36:45
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  1.62s           2023-02-12T04:36:53
+================================================================================
+[2023-02-12 01:37:26,027] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           0           1  2.59s           2023-02-12T04:37:18
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  2.58s           2023-02-12T04:37:26
+================================================================================
+[2023-02-12 01:37:58,418] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           0           1  4.76s           2023-02-12T04:37:53
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  1.97s           2023-02-12T04:37:58
+================================================================================
+[2023-02-12 01:38:31,426] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           0           1  3.53s           2023-02-12T04:38:26
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  2.36s           2023-02-12T04:38:31
+================================================================================
+[2023-02-12 01:39:04,400] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           0           1  1.22s           2023-02-12T04:38:58
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  1.94s           2023-02-12T04:39:04
+================================================================================
+[2023-02-12 01:39:36,217] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           0           1  4.97s           2023-02-12T04:39:33
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  1.79s           2023-02-12T04:39:36
+================================================================================
+[2023-02-12 01:40:08,133] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           0           1  1.25s           2023-02-12T04:40:04
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  1.32s           2023-02-12T04:40:08
+================================================================================
+[2023-02-12 01:40:24,817] {manager.py:690} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags
+[2023-02-12 01:40:25,040] {manager.py:693} INFO - There are 2 files in /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags
+[2023-02-12 01:41:20,981] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           0           1  46.17s          2023-02-12T04:41:20
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  1.32s           2023-02-12T04:40:08
+================================================================================
+[2023-02-12 01:41:55,247] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           0           1  3.69s           2023-02-12T04:41:55
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  24.43s          2023-02-12T04:41:46
+================================================================================
+[2023-02-12 01:42:28,183] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           0           1  2.57s           2023-02-12T04:42:28
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  2.14s           2023-02-12T04:42:18
+================================================================================
+[2023-02-12 01:43:01,324] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           0           1  2.79s           2023-02-12T04:43:01
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  2.49s           2023-02-12T04:42:51
+================================================================================
+[2023-02-12 01:43:36,125] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           0           1  3.80s           2023-02-12T04:43:36
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  2.64s           2023-02-12T04:43:24
+================================================================================
+[2023-02-12 01:44:09,433] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           0           1  3.14s           2023-02-12T04:44:09
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  6.97s           2023-02-12T04:44:01
+================================================================================
+[2023-02-12 01:44:41,261] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           0           1  1.44s           2023-02-12T04:44:41
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  5.35s           2023-02-12T04:44:36
+================================================================================
+[2023-02-12 01:45:12,709] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           0           1  1.42s           2023-02-12T04:45:12
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  2.38s           2023-02-12T04:45:09
+================================================================================
+[2023-02-12 01:45:25,467] {manager.py:690} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags
+[2023-02-12 01:45:25,469] {manager.py:693} INFO - There are 2 files in /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags
+[2023-02-12 01:45:44,864] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           0           1  1.18s           2023-02-12T04:45:44
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  1.26s           2023-02-12T04:45:40
+================================================================================
+[2023-02-12 01:46:16,963] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           0           1  1.35s           2023-02-12T04:46:16
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  1.81s           2023-02-12T04:46:12
+================================================================================
+[2023-02-12 01:46:48,946] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           0           1  1.68s           2023-02-12T04:46:48
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  2.62s           2023-02-12T04:46:45
+================================================================================
+[2023-02-12 01:47:21,208] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           0           1  1.34s           2023-02-12T04:47:21
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  1.46s           2023-02-12T04:47:16
+================================================================================
+[2023-02-12 01:47:52,190] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           0           1  1.34s           2023-02-12T04:47:21
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  5.36s           2023-02-12T04:47:52
+================================================================================
+[2023-02-12 01:48:23,739] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           0           1  1.69s           2023-02-12T04:47:54
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  1.42s           2023-02-12T04:48:23
+================================================================================
+[2023-02-12 01:48:55,329] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           0           1  1.24s           2023-02-12T04:48:27
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  1.48s           2023-02-12T04:48:55
+================================================================================
+[2023-02-12 01:49:30,529] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           0           1  1.24s           2023-02-12T04:48:58
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  5.10s           2023-02-12T04:49:30
+================================================================================
+[2023-02-12 01:50:02,105] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           0           1  1.48s           2023-02-12T04:49:33
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  1.43s           2023-02-12T04:50:02
+================================================================================
+[2023-02-12 01:50:25,505] {manager.py:690} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags
+[2023-02-12 01:50:25,508] {manager.py:693} INFO - There are 2 files in /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags
+[2023-02-12 01:50:33,572] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           0           1  1.34s           2023-02-12T04:50:04
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  1.34s           2023-02-12T04:50:33
+================================================================================
+[2023-02-12 01:51:05,024] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           0           1  1.31s           2023-02-12T04:50:35
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  1.36s           2023-02-12T04:51:05
+================================================================================
+[2023-02-12 01:51:36,589] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           0           1  1.30s           2023-02-12T04:51:07
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  1.46s           2023-02-12T04:51:36
+================================================================================
+[2023-02-12 01:52:08,053] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           0           1  1.38s           2023-02-12T04:51:39
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  1.36s           2023-02-12T04:52:08
+================================================================================
+[2023-02-12 01:52:39,849] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           0           1  1.23s           2023-02-12T04:52:10
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  1.69s           2023-02-12T04:52:39
+================================================================================
+[2023-02-12 01:53:12,360] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           0           1  1.48s           2023-02-12T04:52:42
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  1.93s           2023-02-12T04:53:12
+================================================================================
+[2023-02-12 01:53:43,938] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           0           1  1.96s           2023-02-12T04:53:15
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  1.45s           2023-02-12T04:53:43
+================================================================================
+[2023-02-12 01:54:16,117] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           0           1  1.24s           2023-02-12T04:53:47
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  2.07s           2023-02-12T04:54:16
+================================================================================
+[2023-02-12 01:54:49,010] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           0           1  5.25s           2023-02-12T04:54:23
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  2.72s           2023-02-12T04:54:49
+================================================================================
+[2023-02-12 01:55:21,346] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           0           1  1.73s           2023-02-12T04:54:55
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  2.23s           2023-02-12T04:55:21
+================================================================================
+[2023-02-12 01:55:25,535] {manager.py:690} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags
+[2023-02-12 01:55:25,537] {manager.py:693} INFO - There are 2 files in /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags
+[2023-02-12 01:55:53,150] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           0           1  1.37s           2023-02-12T04:55:26
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  1.80s           2023-02-12T04:55:53
+================================================================================
+[2023-02-12 01:56:28,818] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           0           1  2.60s           2023-02-12T04:55:59
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  5.54s           2023-02-12T04:56:28
+================================================================================
+[2023-02-12 01:57:05,172] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           0           1  1.65s           2023-02-12T04:56:32
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  6.25s           2023-02-12T04:57:05
+================================================================================
+[2023-02-12 01:57:40,150] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           1           0  11.65s          2023-02-12T04:57:17
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  4.94s           2023-02-12T04:57:40
+================================================================================
+[2023-02-12 01:58:15,234] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           1           0  11.82s          2023-02-12T04:58:00
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  4.86s           2023-02-12T04:58:15
+================================================================================
+[2023-02-12 01:58:50,532] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           1           0  19.84s          2023-02-12T04:58:50
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  4.86s           2023-02-12T04:58:15
+================================================================================
+[2023-02-12 02:00:09,819] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           1           0  49.08s          2023-02-12T05:00:09
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  7.53s           2023-02-12T04:58:59
+================================================================================
+[2023-02-12 02:00:25,933] {manager.py:690} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags
+[2023-02-12 02:00:25,979] {manager.py:693} INFO - There are 2 files in /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags
+[2023-02-12 02:00:50,998] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           1           0  11.06s          2023-02-12T05:00:50
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  7.26s           2023-02-12T05:00:18
+================================================================================
+[2023-02-12 02:01:32,554] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           1           0  11.44s          2023-02-12T05:01:32
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  2.72s           2023-02-12T05:00:54
+================================================================================
+[2023-02-12 02:02:12,170] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           1           0  9.51s           2023-02-12T05:02:12
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  3.82s           2023-02-12T05:01:37
+================================================================================
+[2023-02-12 02:02:15,298] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
+[2023-02-12 02:02:41,939] {manager.py:480} INFO - Processing files using up to 1 processes at a time 
+[2023-02-12 02:02:41,939] {manager.py:481} INFO - Process each file at most once every 30 seconds
+[2023-02-12 02:02:41,939] {manager.py:482} INFO - Checking for new files in /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags every 300 seconds
+[2023-02-12 02:02:41,939] {manager.py:690} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags
+[2023-02-12 02:02:42,079] {manager.py:693} INFO - There are 2 files in /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags
+[2023-02-12 02:02:52,965] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           1           0  10.79s          2023-02-12T05:02:52
+================================================================================
+[2023-02-12 02:03:35,153] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           1           0  10.13s          2023-02-12T05:03:35
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  6.14s           2023-02-12T05:03:00
+================================================================================
+[2023-02-12 02:04:07,736] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           1           0  2.20s           2023-02-12T05:04:07
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  2.79s           2023-02-12T05:03:49
+================================================================================
+[2023-02-12 02:04:39,826] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           1           0  1.91s           2023-02-12T05:04:39
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  1.35s           2023-02-12T05:04:21
+================================================================================
+[2023-02-12 02:05:17,685] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           1           0  7.72s           2023-02-12T05:05:17
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  1.39s           2023-02-12T05:04:53
+================================================================================
+[2023-02-12 02:05:51,359] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           1           0  3.53s           2023-02-12T05:05:51
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  2.12s           2023-02-12T05:05:25
+================================================================================
+[2023-02-12 02:06:23,651] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           1           0  2.10s           2023-02-12T05:06:23
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  1.92s           2023-02-12T05:05:58
+================================================================================
+[2023-02-12 02:06:55,573] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           1           0  1.83s           2023-02-12T05:06:55
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  1.33s           2023-02-12T05:06:30
+================================================================================
+[2023-02-12 02:07:48,035] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           1           0  22.36s          2023-02-12T05:07:48
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  1.23s           2023-02-12T05:07:01
+================================================================================
+[2023-02-12 02:07:49,153] {manager.py:690} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags
+[2023-02-12 02:07:49,400] {manager.py:693} INFO - There are 2 files in /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags
+[2023-02-12 02:08:25,564] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           1           0  7.37s           2023-02-12T05:08:25
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  5.05s           2023-02-12T05:07:54
+================================================================================
+[2023-02-12 02:08:57,953] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           1           0  2.28s           2023-02-12T05:08:57
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  2.93s           2023-02-12T05:08:29
+================================================================================
+[2023-02-12 02:09:37,663] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           1           0  9.60s           2023-02-12T05:09:37
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  1.82s           2023-02-12T05:09:01
+================================================================================
+[2023-02-12 02:10:10,039] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           1           0  2.15s           2023-02-12T05:10:10
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  3.05s           2023-02-12T05:09:41
+================================================================================
+[2023-02-12 02:10:41,936] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           1           0  1.85s           2023-02-12T05:10:41
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  1.28s           2023-02-12T05:10:16
+================================================================================
+[2023-02-12 02:11:32,632] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           1           0  20.61s          2023-02-12T05:11:32
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  1.26s           2023-02-12T05:10:48
+================================================================================
+[2023-02-12 02:11:50,069] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
+[2023-02-12 02:12:21,503] {manager.py:480} INFO - Processing files using up to 1 processes at a time 
+[2023-02-12 02:12:21,503] {manager.py:481} INFO - Process each file at most once every 30 seconds
+[2023-02-12 02:12:21,503] {manager.py:482} INFO - Checking for new files in /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags every 300 seconds
+[2023-02-12 02:12:21,504] {manager.py:690} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags
+[2023-02-12 02:12:21,554] {manager.py:693} INFO - There are 2 files in /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags
+[2023-02-12 02:12:28,370] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           1           0  6.72s           2023-02-12T05:12:28
+================================================================================
+[2023-02-12 02:13:03,036] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           1           0  3.99s           2023-02-12T05:13:03
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  2.52s           2023-02-12T05:12:31
+================================================================================
+[2023-02-12 02:13:38,261] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           1           0  4.76s           2023-02-12T05:13:38
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  1.84s           2023-02-12T05:13:05
+================================================================================
+[2023-02-12 02:14:17,736] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           1           0  9.28s           2023-02-12T05:14:17
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  2.69s           2023-02-12T05:13:42
+================================================================================
+[2023-02-12 02:14:52,935] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           1           0  5.07s           2023-02-12T05:14:52
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  4.12s           2023-02-12T05:14:22
+================================================================================
+[2023-02-12 02:15:25,021] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           1           0  1.97s           2023-02-12T05:15:25
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  1.28s           2023-02-12T05:14:55
+================================================================================
+[2023-02-12 02:15:57,299] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           1           0  2.05s           2023-02-12T05:15:57
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  2.84s           2023-02-12T05:15:29
+================================================================================
+[2023-02-12 02:16:29,905] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           1           0  2.51s           2023-02-12T05:16:29
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  1.38s           2023-02-12T05:16:00
+================================================================================
+[2023-02-12 02:17:02,945] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           1           0  2.50s           2023-02-12T05:17:02
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  2.55s           2023-02-12T05:16:33
+================================================================================
+[2023-02-12 02:17:22,367] {manager.py:690} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags
+[2023-02-12 02:17:22,371] {manager.py:693} INFO - There are 2 files in /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags
+[2023-02-12 02:17:35,873] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           1           0  2.80s           2023-02-12T05:17:35
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  1.25s           2023-02-12T05:17:05
+================================================================================
+[2023-02-12 02:18:11,247] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           1           0  5.27s           2023-02-12T05:18:11
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  2.63s           2023-02-12T05:17:39
+================================================================================
+[2023-02-12 02:18:44,440] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           1           0  2.42s           2023-02-12T05:18:44
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  3.14s           2023-02-12T05:18:15
+================================================================================
+[2023-02-12 02:19:16,628] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           1           0  2.05s           2023-02-12T05:19:16
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  1.38s           2023-02-12T05:18:46
+================================================================================
+[2023-02-12 02:19:56,178] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           1           0  9.33s           2023-02-12T05:19:56
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  1.38s           2023-02-12T05:19:18
+================================================================================
+[2023-02-12 02:20:31,579] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           1           0  5.28s           2023-02-12T05:20:31
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  3.19s           2023-02-12T05:20:00
+================================================================================
+[2023-02-12 02:21:10,670] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           1           0  8.92s           2023-02-12T05:21:10
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  2.31s           2023-02-12T05:20:35
+================================================================================
+[2023-02-12 02:21:44,179] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           1           0  3.38s           2023-02-12T05:21:44
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  2.58s           2023-02-12T05:21:14
+================================================================================
+[2023-02-12 02:22:20,236] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           1           0  5.48s           2023-02-12T05:22:20
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  1.57s           2023-02-12T05:21:46
+================================================================================
+[2023-02-12 02:22:25,079] {manager.py:690} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags
+[2023-02-12 02:22:25,115] {manager.py:693} INFO - There are 2 files in /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags
+[2023-02-12 02:22:57,683] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           1           0  7.25s           2023-02-12T05:22:57
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  2.64s           2023-02-12T05:22:24
+================================================================================
+[2023-02-12 02:23:33,872] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           1           0  5.76s           2023-02-12T05:23:33
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  3.87s           2023-02-12T05:23:03
+================================================================================
+[2023-02-12 02:24:05,898] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           1           0  1.90s           2023-02-12T05:24:05
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  2.91s           2023-02-12T05:23:37
+================================================================================
+[2023-02-12 02:24:40,806] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           1           0  4.81s           2023-02-12T05:24:40
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  1.23s           2023-02-12T05:24:09
+================================================================================
+[2023-02-12 02:25:12,773] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           1           0  1.83s           2023-02-12T05:25:12
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  2.10s           2023-02-12T05:24:44
+================================================================================
+[2023-02-12 02:25:44,675] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           1           0  1.78s           2023-02-12T05:25:44
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  1.24s           2023-02-12T05:25:16
+================================================================================
+[2023-02-12 02:26:16,508] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           1           0  1.73s           2023-02-12T05:26:16
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  1.23s           2023-02-12T05:25:48
+================================================================================
+[2023-02-12 02:26:48,413] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           1           0  1.80s           2023-02-12T05:26:48
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  1.24s           2023-02-12T05:26:19
+================================================================================
+[2023-02-12 02:27:20,325] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                      PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+-----------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py                           1           0  1.80s           2023-02-12T05:27:20
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                  1           0  1.24s           2023-02-12T05:26:51
+================================================================================
+[2023-02-12 02:27:25,380] {manager.py:690} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags
+[2023-02-12 02:27:25,431] {manager.py:693} INFO - There are 2 files in /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags
+[2023-02-12 02:27:29,262] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15

@@ -1,0 +1,38 @@
+[2023-02-12 02:06:06,269] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: dados_climaticos.extrai_dados manual__2023-02-12T05:05:59.936965+00:00 [queued]>
+[2023-02-12 02:06:06,278] {taskinstance.py:1159} INFO - Dependencies all met for <TaskInstance: dados_climaticos.extrai_dados manual__2023-02-12T05:05:59.936965+00:00 [queued]>
+[2023-02-12 02:06:06,278] {taskinstance.py:1356} INFO - 
+--------------------------------------------------------------------------------
+[2023-02-12 02:06:06,278] {taskinstance.py:1357} INFO - Starting attempt 1 of 1
+[2023-02-12 02:06:06,278] {taskinstance.py:1358} INFO - 
+--------------------------------------------------------------------------------
+[2023-02-12 02:06:06,295] {taskinstance.py:1377} INFO - Executing <Task(PythonOperator): extrai_dados> on 2023-02-12 05:05:59.936965+00:00
+[2023-02-12 02:06:06,298] {standard_task_runner.py:52} INFO - Started process 23693 to run task
+[2023-02-12 02:06:06,307] {standard_task_runner.py:79} INFO - Running: ['airflow', 'tasks', 'run', 'dados_climaticos', 'extrai_dados', 'manual__2023-02-12T05:05:59.936965+00:00', '--job-id', '12', '--raw', '--subdir', 'DAGS_FOLDER/dados_climaticos.py', '--cfg-path', '/var/folders/tf/5c5cm4z11mvb4z72rkp1jvxw0000gn/T/tmpl0gkkdgf', '--error-file', '/var/folders/tf/5c5cm4z11mvb4z72rkp1jvxw0000gn/T/tmpzv67m4mf']
+[2023-02-12 02:06:06,310] {standard_task_runner.py:80} INFO - Job 12: Subtask extrai_dados
+[2023-02-12 02:06:06,380] {task_command.py:370} INFO - Running <TaskInstance: dados_climaticos.extrai_dados manual__2023-02-12T05:05:59.936965+00:00 [running]> on host 1.0.0.127.in-addr.arpa
+[2023-02-12 02:06:06,455] {taskinstance.py:1569} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=dados_climaticos
+AIRFLOW_CTX_TASK_ID=extrai_dados
+AIRFLOW_CTX_EXECUTION_DATE=2023-02-12T05:05:59.936965+00:00
+AIRFLOW_CTX_TRY_NUMBER=1
+AIRFLOW_CTX_DAG_RUN_ID=manual__2023-02-12T05:05:59.936965+00:00
+[2023-02-12 02:06:06,458] {taskinstance.py:1889} ERROR - Task failed with exception
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/operators/python.py", line 171, in execute
+    return_value = self.execute_callable()
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/operators/python.py", line 189, in execute_callable
+    return self.python_callable(*self.op_args, **self.op_kwargs)
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py", line 36, in extrai_dados
+    f'{city}/{end_date_inter}/{ds_add(end_date_inter, 7)}?unitGroup=metric&include=days&key={key}&contentType=csv')
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/macros/__init__.py", line 44, in ds_add
+    dt = datetime.strptime(str(ds), "%Y-%m-%d") + timedelta(days=days)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/_strptime.py", line 568, in _strptime_datetime
+    tt, fraction, gmtoff_fraction = _strptime(data_string, format)
+  File "/Library/Frameworks/Python.framework/Versions/3.10/lib/python3.10/_strptime.py", line 349, in _strptime
+    raise ValueError("time data %r does not match format %r" %
+ValueError: time data 'end_date_inter' does not match format '%Y-%m-%d'
+[2023-02-12 02:06:06,523] {taskinstance.py:1395} INFO - Marking task as FAILED. dag_id=dados_climaticos, task_id=extrai_dados, execution_date=20230212T050559, start_date=20230212T050606, end_date=20230212T050606
+[2023-02-12 02:06:06,534] {standard_task_runner.py:92} ERROR - Failed to execute job 12 for task extrai_dados (time data 'end_date_inter' does not match format '%Y-%m-%d'; 23693)
+[2023-02-12 02:06:06,577] {local_task_job.py:156} INFO - Task exited with return code 1
+[2023-02-12 02:06:06,608] {local_task_job.py:273} INFO - 0 downstream tasks scheduled from follow-on schedule check

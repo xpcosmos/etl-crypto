@@ -1,0 +1,1112 @@
+[2023-02-12 01:30:24,869] {processor.py:153} INFO - Started process (PID=21852) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:30:24,869] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 01:30:24,870] {logging_mixin.py:115} INFO - [2023-02-12 01:30:24,870] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:30:24,921] {logging_mixin.py:115} INFO - [2023-02-12 01:30:24,871] {dagbag.py:320} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py", line 7
+    start_date=pendulum.datetime(2023, 02, 12, tz='UTC'),
+                                       ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-02-12 01:30:24,972] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:30:25,059] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.191 seconds
+[2023-02-12 01:30:59,563] {processor.py:153} INFO - Started process (PID=21884) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:30:59,588] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 01:30:59,589] {logging_mixin.py:115} INFO - [2023-02-12 01:30:59,589] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:30:59,612] {logging_mixin.py:115} INFO - [2023-02-12 01:30:59,592] {dagbag.py:320} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py", line 7
+    start_date=pendulum.datetime(2023, 02, 12, tz='UTC'),
+                                       ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-02-12 01:30:59,612] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:30:59,711] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.149 seconds
+[2023-02-12 01:31:31,234] {processor.py:153} INFO - Started process (PID=21920) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:31:31,236] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 01:31:31,237] {logging_mixin.py:115} INFO - [2023-02-12 01:31:31,237] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:31:31,240] {logging_mixin.py:115} INFO - [2023-02-12 01:31:31,239] {dagbag.py:320} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py", line 7
+    start_date=pendulum.datetime(2023, 02, 12, tz='UTC'),
+                                       ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-02-12 01:31:31,241] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:31:31,336] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.103 seconds
+[2023-02-12 01:32:04,992] {processor.py:153} INFO - Started process (PID=21970) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:32:04,999] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 01:32:05,000] {logging_mixin.py:115} INFO - [2023-02-12 01:32:05,000] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:32:05,025] {logging_mixin.py:115} INFO - [2023-02-12 01:32:05,001] {dagbag.py:320} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py", line 7
+    start_date=pendulum.datetime(2023, 02, 12, tz='UTC'),
+                                       ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-02-12 01:32:05,025] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:32:05,105] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.114 seconds
+[2023-02-12 01:33:51,696] {processor.py:153} INFO - Started process (PID=22018) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:33:51,803] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 01:33:51,804] {logging_mixin.py:115} INFO - [2023-02-12 01:33:51,804] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:33:52,039] {logging_mixin.py:115} INFO - [2023-02-12 01:33:51,806] {dagbag.py:320} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py", line 7
+    start_date=pendulum.datetime(2023, 02, 12, tz='UTC'),
+                                       ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-02-12 01:33:52,039] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:33:52,225] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.530 seconds
+[2023-02-12 01:34:36,799] {processor.py:153} INFO - Started process (PID=22077) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:34:36,825] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 01:34:36,826] {logging_mixin.py:115} INFO - [2023-02-12 01:34:36,826] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:34:36,855] {logging_mixin.py:115} INFO - [2023-02-12 01:34:36,828] {dagbag.py:320} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py", line 7
+    start_date=pendulum.datetime(2023, 02, 12, tz='UTC'),
+                                       ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-02-12 01:34:36,855] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:34:36,917] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.119 seconds
+[2023-02-12 01:35:08,682] {processor.py:153} INFO - Started process (PID=22148) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:35:08,682] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 01:35:08,683] {logging_mixin.py:115} INFO - [2023-02-12 01:35:08,683] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:35:08,700] {logging_mixin.py:115} INFO - [2023-02-12 01:35:08,684] {dagbag.py:320} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py", line 7
+    start_date=pendulum.datetime(2023, 02, 12, tz='UTC'),
+                                       ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-02-12 01:35:08,700] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:35:08,766] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.084 seconds
+[2023-02-12 01:35:39,965] {processor.py:153} INFO - Started process (PID=22156) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:35:39,966] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 01:35:39,966] {logging_mixin.py:115} INFO - [2023-02-12 01:35:39,966] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:35:39,968] {logging_mixin.py:115} INFO - [2023-02-12 01:35:39,967] {dagbag.py:320} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py", line 7
+    start_date=pendulum.datetime(2023, 02, 12, tz='UTC'),
+                                       ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-02-12 01:35:39,968] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:35:40,029] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.064 seconds
+[2023-02-12 01:36:11,192] {processor.py:153} INFO - Started process (PID=22160) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:36:11,192] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 01:36:11,192] {logging_mixin.py:115} INFO - [2023-02-12 01:36:11,192] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:36:11,193] {logging_mixin.py:115} INFO - [2023-02-12 01:36:11,193] {dagbag.py:320} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py", line 7
+    start_date=pendulum.datetime(2023, 02, 12, tz='UTC'),
+                                       ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-02-12 01:36:11,193] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:36:11,247] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.056 seconds
+[2023-02-12 01:36:45,418] {processor.py:153} INFO - Started process (PID=22166) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:36:45,439] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 01:36:45,440] {logging_mixin.py:115} INFO - [2023-02-12 01:36:45,440] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:36:45,472] {logging_mixin.py:115} INFO - [2023-02-12 01:36:45,461] {dagbag.py:320} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py", line 7
+    start_date=pendulum.datetime(2023, 02, 12, tz='UTC'),
+                                       ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-02-12 01:36:45,472] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:36:45,539] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.122 seconds
+[2023-02-12 01:37:18,018] {processor.py:153} INFO - Started process (PID=22198) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:37:18,037] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 01:37:18,037] {logging_mixin.py:115} INFO - [2023-02-12 01:37:18,037] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:37:18,064] {logging_mixin.py:115} INFO - [2023-02-12 01:37:18,039] {dagbag.py:320} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py", line 8
+    start_date=pendulum.datetime(2023, 02, 12, tz='UTC'),
+                                       ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-02-12 01:37:18,065] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:37:18,168] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.150 seconds
+[2023-02-12 01:37:52,801] {processor.py:153} INFO - Started process (PID=22239) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:37:52,844] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 01:37:52,848] {logging_mixin.py:115} INFO - [2023-02-12 01:37:52,848] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:37:52,874] {logging_mixin.py:115} INFO - [2023-02-12 01:37:52,850] {dagbag.py:320} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py", line 8
+    start_date=pendulum.datetime(2023, 02, 12, tz='UTC'),
+                                       ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-02-12 01:37:52,874] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:37:53,015] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.215 seconds
+[2023-02-12 01:38:26,597] {processor.py:153} INFO - Started process (PID=22278) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:38:26,619] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 01:38:26,620] {logging_mixin.py:115} INFO - [2023-02-12 01:38:26,620] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:38:26,642] {logging_mixin.py:115} INFO - [2023-02-12 01:38:26,622] {dagbag.py:320} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py", line 8
+    start_date=pendulum.datetime(2023, 02, 12, tz='UTC'),
+                                       ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-02-12 01:38:26,643] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:38:26,741] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.145 seconds
+[2023-02-12 01:38:58,042] {processor.py:153} INFO - Started process (PID=22314) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:38:58,043] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 01:38:58,043] {logging_mixin.py:115} INFO - [2023-02-12 01:38:58,043] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:38:58,045] {logging_mixin.py:115} INFO - [2023-02-12 01:38:58,044] {dagbag.py:320} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py", line 8
+    start_date=pendulum.datetime(2023, 02, 12, tz='UTC'),
+                                       ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-02-12 01:38:58,045] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:38:58,110] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.069 seconds
+[2023-02-12 01:39:33,089] {processor.py:153} INFO - Started process (PID=22355) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:39:33,107] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 01:39:33,108] {logging_mixin.py:115} INFO - [2023-02-12 01:39:33,108] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:39:33,134] {logging_mixin.py:115} INFO - [2023-02-12 01:39:33,109] {dagbag.py:320} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py", line 8
+    start_date=pendulum.datetime(2023, 02, 12, tz='UTC'),
+                                       ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-02-12 01:39:33,134] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:39:33,189] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.101 seconds
+[2023-02-12 01:40:04,451] {processor.py:153} INFO - Started process (PID=22398) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:40:04,451] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 01:40:04,451] {logging_mixin.py:115} INFO - [2023-02-12 01:40:04,451] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:40:04,453] {logging_mixin.py:115} INFO - [2023-02-12 01:40:04,452] {dagbag.py:320} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py", line 8
+    start_date=pendulum.datetime(2023, 02, 12, tz='UTC'),
+                                       ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-02-12 01:40:04,453] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:40:04,519] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.070 seconds
+[2023-02-12 01:41:20,464] {processor.py:153} INFO - Started process (PID=22421) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:41:20,488] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 01:41:20,489] {logging_mixin.py:115} INFO - [2023-02-12 01:41:20,489] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:41:20,695] {logging_mixin.py:115} INFO - [2023-02-12 01:41:20,632] {dagbag.py:320} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py", line 8
+    start_date=pendulum.datetime(2023, 02, 12, tz='UTC'),
+                                       ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-02-12 01:41:20,696] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:41:20,815] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.352 seconds
+[2023-02-12 01:41:54,970] {processor.py:153} INFO - Started process (PID=22432) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:41:55,002] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 01:41:55,003] {logging_mixin.py:115} INFO - [2023-02-12 01:41:55,003] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:41:55,029] {logging_mixin.py:115} INFO - [2023-02-12 01:41:55,010] {dagbag.py:320} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py", line 8
+    start_date=pendulum.datetime(2023, 02, 12, tz='UTC'),
+                                       ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-02-12 01:41:55,030] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:41:55,092] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.123 seconds
+[2023-02-12 01:42:27,856] {processor.py:153} INFO - Started process (PID=22434) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:42:27,877] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 01:42:27,878] {logging_mixin.py:115} INFO - [2023-02-12 01:42:27,877] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:42:27,920] {logging_mixin.py:115} INFO - [2023-02-12 01:42:27,902] {dagbag.py:320} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py", line 8
+    start_date=pendulum.datetime(2023, 02, 12, tz='UTC'),
+                                       ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-02-12 01:42:27,920] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:42:28,020] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.164 seconds
+[2023-02-12 01:43:01,036] {processor.py:153} INFO - Started process (PID=22437) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:43:01,052] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 01:43:01,053] {logging_mixin.py:115} INFO - [2023-02-12 01:43:01,053] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:43:01,077] {logging_mixin.py:115} INFO - [2023-02-12 01:43:01,059] {dagbag.py:320} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py", line 8
+    start_date=pendulum.datetime(2023, 02, 12, tz='UTC'),
+                                       ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-02-12 01:43:01,100] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:43:01,164] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.129 seconds
+[2023-02-12 01:43:35,839] {processor.py:153} INFO - Started process (PID=22440) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:43:35,856] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 01:43:35,857] {logging_mixin.py:115} INFO - [2023-02-12 01:43:35,857] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:43:35,900] {logging_mixin.py:115} INFO - [2023-02-12 01:43:35,882] {dagbag.py:320} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py", line 8
+    start_date=pendulum.datetime(2023, 02, 12, tz='UTC'),
+                                       ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-02-12 01:43:35,901] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:43:35,964] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.126 seconds
+[2023-02-12 01:44:09,116] {processor.py:153} INFO - Started process (PID=22448) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:44:09,137] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 01:44:09,138] {logging_mixin.py:115} INFO - [2023-02-12 01:44:09,138] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:44:09,168] {logging_mixin.py:115} INFO - [2023-02-12 01:44:09,140] {dagbag.py:320} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py", line 8
+    start_date=pendulum.datetime(2023, 02, 12, tz='UTC'),
+                                       ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-02-12 01:44:09,191] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:44:09,260] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.145 seconds
+[2023-02-12 01:44:40,948] {processor.py:153} INFO - Started process (PID=22489) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:44:40,981] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 01:44:40,981] {logging_mixin.py:115} INFO - [2023-02-12 01:44:40,981] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:44:41,003] {logging_mixin.py:115} INFO - [2023-02-12 01:44:40,982] {dagbag.py:320} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py", line 8
+    start_date=pendulum.datetime(2023, 02, 12, tz='UTC'),
+                                       ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-02-12 01:44:41,003] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:44:41,076] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.129 seconds
+[2023-02-12 01:45:12,375] {processor.py:153} INFO - Started process (PID=22536) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:45:12,376] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 01:45:12,377] {logging_mixin.py:115} INFO - [2023-02-12 01:45:12,377] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:45:12,378] {logging_mixin.py:115} INFO - [2023-02-12 01:45:12,378] {dagbag.py:320} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py", line 9
+    start_date=pendulum.datetime(2023, 02, 12, tz='UTC'),
+                                       ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-02-12 01:45:12,379] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:45:12,451] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.077 seconds
+[2023-02-12 01:45:44,639] {processor.py:153} INFO - Started process (PID=22577) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:45:44,640] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 01:45:44,640] {logging_mixin.py:115} INFO - [2023-02-12 01:45:44,640] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:45:44,642] {logging_mixin.py:115} INFO - [2023-02-12 01:45:44,641] {dagbag.py:320} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py", line 9
+    start_date=pendulum.datetime(2023, 02, 12, tz='UTC'),
+                                       ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-02-12 01:45:44,642] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:45:44,704] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.065 seconds
+[2023-02-12 01:46:16,722] {processor.py:153} INFO - Started process (PID=22611) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:46:16,722] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 01:46:16,723] {logging_mixin.py:115} INFO - [2023-02-12 01:46:16,723] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:46:16,724] {logging_mixin.py:115} INFO - [2023-02-12 01:46:16,724] {dagbag.py:320} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py", line 9
+    start_date=pendulum.datetime(2023, 02, 12, tz='UTC'),
+                                       ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-02-12 01:46:16,725] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:46:16,790] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.068 seconds
+[2023-02-12 01:46:48,695] {processor.py:153} INFO - Started process (PID=22642) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:46:48,696] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 01:46:48,696] {logging_mixin.py:115} INFO - [2023-02-12 01:46:48,696] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:46:48,698] {logging_mixin.py:115} INFO - [2023-02-12 01:46:48,697] {dagbag.py:320} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py", line 9
+    start_date=pendulum.datetime(2023, 02, 12, tz='UTC'),
+                                       ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-02-12 01:46:48,698] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:46:48,765] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.070 seconds
+[2023-02-12 01:47:20,954] {processor.py:153} INFO - Started process (PID=22679) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:47:20,955] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 01:47:20,955] {logging_mixin.py:115} INFO - [2023-02-12 01:47:20,955] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:47:20,957] {logging_mixin.py:115} INFO - [2023-02-12 01:47:20,956] {dagbag.py:320} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py", line 9
+    start_date=pendulum.datetime(2023, 02, 12, tz='UTC'),
+                                       ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-02-12 01:47:20,957] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:47:21,026] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.072 seconds
+[2023-02-12 01:47:54,651] {processor.py:153} INFO - Started process (PID=22716) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:47:54,670] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 01:47:54,670] {logging_mixin.py:115} INFO - [2023-02-12 01:47:54,670] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:47:54,700] {logging_mixin.py:115} INFO - [2023-02-12 01:47:54,672] {dagbag.py:320} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py", line 15
+    start_date=pendulum.datetime(2023, 02, 12, tz='UTC'),
+                                       ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-02-12 01:47:54,700] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:47:54,768] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.118 seconds
+[2023-02-12 01:48:26,847] {processor.py:153} INFO - Started process (PID=22753) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:48:26,848] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 01:48:26,848] {logging_mixin.py:115} INFO - [2023-02-12 01:48:26,848] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:48:26,850] {logging_mixin.py:115} INFO - [2023-02-12 01:48:26,850] {dagbag.py:320} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py", line 15
+    start_date=pendulum.datetime(2023, 02, 12, tz='UTC'),
+                                       ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-02-12 01:48:26,851] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:48:26,915] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.069 seconds
+[2023-02-12 01:48:58,425] {processor.py:153} INFO - Started process (PID=22779) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:48:58,425] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 01:48:58,425] {logging_mixin.py:115} INFO - [2023-02-12 01:48:58,425] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:48:58,427] {logging_mixin.py:115} INFO - [2023-02-12 01:48:58,426] {dagbag.py:320} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py", line 15
+    start_date=pendulum.datetime(2023, 02, 12, tz='UTC'),
+                                       ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-02-12 01:48:58,427] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:48:58,504] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.080 seconds
+[2023-02-12 01:49:32,826] {processor.py:153} INFO - Started process (PID=22816) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:49:32,861] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 01:49:32,861] {logging_mixin.py:115} INFO - [2023-02-12 01:49:32,861] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:49:32,882] {logging_mixin.py:115} INFO - [2023-02-12 01:49:32,862] {dagbag.py:320} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py", line 15
+    start_date=pendulum.datetime(2023, 02, 12, tz='UTC'),
+                                       ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-02-12 01:49:32,882] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:49:32,947] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.122 seconds
+[2023-02-12 01:50:04,275] {processor.py:153} INFO - Started process (PID=22861) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:50:04,276] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 01:50:04,276] {logging_mixin.py:115} INFO - [2023-02-12 01:50:04,276] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:50:04,278] {logging_mixin.py:115} INFO - [2023-02-12 01:50:04,277] {dagbag.py:320} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py", line 15
+    start_date=pendulum.datetime(2023, 02, 12, tz='UTC'),
+                                       ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-02-12 01:50:04,278] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:50:04,344] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.070 seconds
+[2023-02-12 01:50:35,700] {processor.py:153} INFO - Started process (PID=22896) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:50:35,700] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 01:50:35,701] {logging_mixin.py:115} INFO - [2023-02-12 01:50:35,701] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:50:35,702] {logging_mixin.py:115} INFO - [2023-02-12 01:50:35,702] {dagbag.py:320} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py", line 15
+    start_date=pendulum.datetime(2023, 02, 12, tz='UTC'),
+                                       ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-02-12 01:50:35,703] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:50:35,771] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.072 seconds
+[2023-02-12 01:51:07,138] {processor.py:153} INFO - Started process (PID=22929) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:51:07,139] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 01:51:07,139] {logging_mixin.py:115} INFO - [2023-02-12 01:51:07,139] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:51:07,141] {logging_mixin.py:115} INFO - [2023-02-12 01:51:07,140] {dagbag.py:320} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py", line 15
+    start_date=pendulum.datetime(2023, 02, 12, tz='UTC'),
+                                       ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-02-12 01:51:07,141] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:51:07,205] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.068 seconds
+[2023-02-12 01:51:38,785] {processor.py:153} INFO - Started process (PID=22963) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:51:38,786] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 01:51:38,786] {logging_mixin.py:115} INFO - [2023-02-12 01:51:38,786] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:51:38,788] {logging_mixin.py:115} INFO - [2023-02-12 01:51:38,788] {dagbag.py:320} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py", line 15
+    start_date=pendulum.datetime(2023, 02, 12, tz='UTC'),
+                                       ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-02-12 01:51:38,789] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:51:38,859] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.075 seconds
+[2023-02-12 01:52:10,110] {processor.py:153} INFO - Started process (PID=22997) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:52:10,110] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 01:52:10,110] {logging_mixin.py:115} INFO - [2023-02-12 01:52:10,110] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:52:10,112] {logging_mixin.py:115} INFO - [2023-02-12 01:52:10,111] {dagbag.py:320} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py", line 15
+    start_date=pendulum.datetime(2023, 02, 12, tz='UTC'),
+                                       ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-02-12 01:52:10,112] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:52:10,178] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.069 seconds
+[2023-02-12 01:52:42,633] {processor.py:153} INFO - Started process (PID=23032) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:52:42,634] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 01:52:42,634] {logging_mixin.py:115} INFO - [2023-02-12 01:52:42,634] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:52:42,636] {logging_mixin.py:115} INFO - [2023-02-12 01:52:42,635] {dagbag.py:320} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py", line 15
+    start_date=pendulum.datetime(2023, 02, 12, tz='UTC'),
+                                       ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-02-12 01:52:42,636] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:52:42,701] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.069 seconds
+[2023-02-12 01:53:15,171] {processor.py:153} INFO - Started process (PID=23061) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:53:15,171] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 01:53:15,172] {logging_mixin.py:115} INFO - [2023-02-12 01:53:15,172] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:53:15,173] {logging_mixin.py:115} INFO - [2023-02-12 01:53:15,173] {dagbag.py:320} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py", line 16
+    start_date=pendulum.datetime(2023, 02, 12, tz='UTC'),
+                                       ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-02-12 01:53:15,174] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:53:15,239] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.069 seconds
+[2023-02-12 01:53:47,039] {processor.py:153} INFO - Started process (PID=23106) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:53:47,039] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 01:53:47,040] {logging_mixin.py:115} INFO - [2023-02-12 01:53:47,039] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:53:47,042] {logging_mixin.py:115} INFO - [2023-02-12 01:53:47,041] {dagbag.py:320} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py", line 16
+    start_date=pendulum.datetime(2023, 02, 12, tz='UTC'),
+                                       ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-02-12 01:53:47,042] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:53:47,106] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.069 seconds
+[2023-02-12 01:54:22,583] {processor.py:153} INFO - Started process (PID=23144) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:54:22,658] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 01:54:22,658] {logging_mixin.py:115} INFO - [2023-02-12 01:54:22,658] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:54:22,751] {logging_mixin.py:115} INFO - [2023-02-12 01:54:22,660] {dagbag.py:320} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py", line 16
+    start_date=pendulum.datetime(2023, 02, 12, tz='UTC'),
+                                       ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-02-12 01:54:22,752] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:54:23,178] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.595 seconds
+[2023-02-12 01:54:55,015] {processor.py:153} INFO - Started process (PID=23177) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:54:55,034] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 01:54:55,046] {logging_mixin.py:115} INFO - [2023-02-12 01:54:55,046] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:54:55,124] {logging_mixin.py:115} INFO - [2023-02-12 01:54:55,047] {dagbag.py:320} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py", line 15
+    start_date=pendulum.datetime(2023, 02, 12, tz='UTC'),
+                                       ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-02-12 01:54:55,125] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:54:55,195] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.181 seconds
+[2023-02-12 01:55:26,690] {processor.py:153} INFO - Started process (PID=23209) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:55:26,690] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 01:55:26,691] {logging_mixin.py:115} INFO - [2023-02-12 01:55:26,691] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:55:26,692] {logging_mixin.py:115} INFO - [2023-02-12 01:55:26,692] {dagbag.py:320} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py", line 13
+    start_date=pendulum.datetime(2023, 02, 12, tz='UTC'),
+                                       ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-02-12 01:55:26,692] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:55:26,758] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.069 seconds
+[2023-02-12 01:55:59,677] {processor.py:153} INFO - Started process (PID=23241) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:55:59,677] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 01:55:59,678] {logging_mixin.py:115} INFO - [2023-02-12 01:55:59,678] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:55:59,679] {logging_mixin.py:115} INFO - [2023-02-12 01:55:59,679] {dagbag.py:320} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py", line 13
+    start_date=pendulum.datetime(2023, 02, 12, tz='UTC'),
+                                       ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-02-12 01:55:59,680] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:55:59,747] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.071 seconds
+[2023-02-12 01:56:32,242] {processor.py:153} INFO - Started process (PID=23266) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:56:32,272] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 01:56:32,273] {logging_mixin.py:115} INFO - [2023-02-12 01:56:32,273] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:56:32,344] {logging_mixin.py:115} INFO - [2023-02-12 01:56:32,293] {dagbag.py:320} ERROR - Failed to import: /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+Traceback (most recent call last):
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/models/dagbag.py", line 317, in parse
+    loader.exec_module(new_module)
+  File "<frozen importlib._bootstrap_external>", line 879, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1017, in get_code
+  File "<frozen importlib._bootstrap_external>", line 947, in source_to_code
+  File "<frozen importlib._bootstrap>", line 241, in _call_with_frames_removed
+  File "/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py", line 13
+    start_date=pendulum.datetime(2023, 02, 12, tz='UTC'),
+                                       ^
+SyntaxError: leading zeros in decimal integer literals are not permitted; use an 0o prefix for octal integers
+[2023-02-12 01:56:32,345] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:56:32,415] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.174 seconds
+[2023-02-12 01:57:07,345] {processor.py:153} INFO - Started process (PID=23305) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:57:07,401] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 01:57:07,402] {logging_mixin.py:115} INFO - [2023-02-12 01:57:07,402] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:57:12,581] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:57:17,406] {logging_mixin.py:115} INFO - [2023-02-12 01:57:17,406] {manager.py:508} INFO - Created Permission View: can read on DAG:dados_climaticos
+[2023-02-12 01:57:17,416] {logging_mixin.py:115} INFO - [2023-02-12 01:57:17,416] {manager.py:508} INFO - Created Permission View: can edit on DAG:dados_climaticos
+[2023-02-12 01:57:17,425] {logging_mixin.py:115} INFO - [2023-02-12 01:57:17,425] {manager.py:508} INFO - Created Permission View: can delete on DAG:dados_climaticos
+[2023-02-12 01:57:17,425] {logging_mixin.py:115} INFO - [2023-02-12 01:57:17,425] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:57:17,435] {logging_mixin.py:115} INFO - [2023-02-12 01:57:17,435] {dag.py:2398} INFO - Creating ORM DAG for dados_climaticos
+[2023-02-12 01:57:17,447] {logging_mixin.py:115} INFO - [2023-02-12 01:57:17,447] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-02-13T00:00:00+00:00, run_after=2023-02-20T00:00:00+00:00
+[2023-02-12 01:57:17,464] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 10.120 seconds
+[2023-02-12 01:57:49,978] {processor.py:153} INFO - Started process (PID=23338) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:57:49,979] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 01:57:49,979] {logging_mixin.py:115} INFO - [2023-02-12 01:57:49,979] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:57:59,636] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:57:59,906] {logging_mixin.py:115} INFO - [2023-02-12 01:57:59,906] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:57:59,929] {logging_mixin.py:115} INFO - [2023-02-12 01:57:59,929] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-02-13T00:00:00+00:00, run_after=2023-02-20T00:00:00+00:00
+[2023-02-12 01:57:59,950] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 9.972 seconds
+[2023-02-12 01:58:46,079] {processor.py:153} INFO - Started process (PID=23369) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:58:46,099] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 01:58:46,100] {logging_mixin.py:115} INFO - [2023-02-12 01:58:46,100] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:58:49,828] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:58:50,172] {logging_mixin.py:115} INFO - [2023-02-12 01:58:50,172] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:58:50,203] {logging_mixin.py:115} INFO - [2023-02-12 01:58:50,203] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-02-13T00:00:00+00:00, run_after=2023-02-20T00:00:00+00:00
+[2023-02-12 01:58:50,251] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 4.173 seconds
+[2023-02-12 01:59:51,320] {processor.py:153} INFO - Started process (PID=23390) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 01:59:51,502] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 01:59:51,503] {logging_mixin.py:115} INFO - [2023-02-12 01:59:51,503] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:00:09,084] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:00:09,485] {logging_mixin.py:115} INFO - [2023-02-12 02:00:09,485] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:00:09,505] {logging_mixin.py:115} INFO - [2023-02-12 02:00:09,505] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-02-13T00:00:00+00:00, run_after=2023-02-20T00:00:00+00:00
+[2023-02-12 02:00:09,571] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 18.252 seconds
+[2023-02-12 02:00:41,136] {processor.py:153} INFO - Started process (PID=23432) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:00:41,137] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 02:00:41,137] {logging_mixin.py:115} INFO - [2023-02-12 02:00:41,137] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:00:47,031] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:00:50,596] {logging_mixin.py:115} INFO - [2023-02-12 02:00:50,596] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:00:50,615] {logging_mixin.py:115} INFO - [2023-02-12 02:00:50,615] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-02-13T00:00:00+00:00, run_after=2023-02-20T00:00:00+00:00
+[2023-02-12 02:00:50,632] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 9.496 seconds
+[2023-02-12 02:01:27,208] {processor.py:153} INFO - Started process (PID=23442) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:01:27,274] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 02:01:27,275] {logging_mixin.py:115} INFO - [2023-02-12 02:01:27,275] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:01:32,051] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:01:32,267] {logging_mixin.py:115} INFO - [2023-02-12 02:01:32,267] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:01:32,287] {logging_mixin.py:115} INFO - [2023-02-12 02:01:32,287] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-02-13T00:00:00+00:00, run_after=2023-02-20T00:00:00+00:00
+[2023-02-12 02:01:32,302] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 5.095 seconds
+[2023-02-12 02:02:07,439] {processor.py:153} INFO - Started process (PID=23467) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:02:07,440] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 02:02:07,440] {logging_mixin.py:115} INFO - [2023-02-12 02:02:07,440] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:02:11,650] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:02:11,880] {logging_mixin.py:115} INFO - [2023-02-12 02:02:11,880] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:02:11,901] {logging_mixin.py:115} INFO - [2023-02-12 02:02:11,901] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-02-13T00:00:00+00:00, run_after=2023-02-20T00:00:00+00:00
+[2023-02-12 02:02:11,918] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 4.479 seconds
+[2023-02-12 02:02:46,514] {processor.py:153} INFO - Started process (PID=23528) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:02:46,559] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 02:02:46,560] {logging_mixin.py:115} INFO - [2023-02-12 02:02:46,560] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:02:52,341] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:02:52,543] {logging_mixin.py:115} INFO - [2023-02-12 02:02:52,543] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:02:52,571] {logging_mixin.py:115} INFO - [2023-02-12 02:02:52,571] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-02-13T00:00:00+00:00, run_after=2023-02-20T00:00:00+00:00
+[2023-02-12 02:02:52,603] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 6.090 seconds
+[2023-02-12 02:03:28,563] {processor.py:153} INFO - Started process (PID=23568) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:03:28,585] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 02:03:28,586] {logging_mixin.py:115} INFO - [2023-02-12 02:03:28,586] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:03:34,574] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:03:34,839] {logging_mixin.py:115} INFO - [2023-02-12 02:03:34,839] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:03:34,859] {logging_mixin.py:115} INFO - [2023-02-12 02:03:34,859] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-02-13T00:00:00+00:00, run_after=2023-02-20T00:00:00+00:00
+[2023-02-12 02:03:34,875] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 6.312 seconds
+[2023-02-12 02:04:06,456] {processor.py:153} INFO - Started process (PID=23589) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:04:06,456] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 02:04:06,456] {logging_mixin.py:115} INFO - [2023-02-12 02:04:06,456] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:04:07,360] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:04:07,444] {logging_mixin.py:115} INFO - [2023-02-12 02:04:07,444] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:04:07,464] {logging_mixin.py:115} INFO - [2023-02-12 02:04:07,464] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-02-13T00:00:00+00:00, run_after=2023-02-20T00:00:00+00:00
+[2023-02-12 02:04:07,481] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 1.026 seconds
+[2023-02-12 02:04:38,898] {processor.py:153} INFO - Started process (PID=23602) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:04:38,898] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 02:04:38,899] {logging_mixin.py:115} INFO - [2023-02-12 02:04:38,899] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:04:39,456] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:04:39,540] {logging_mixin.py:115} INFO - [2023-02-12 02:04:39,539] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:04:39,555] {logging_mixin.py:115} INFO - [2023-02-12 02:04:39,555] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-02-13T00:00:00+00:00, run_after=2023-02-20T00:00:00+00:00
+[2023-02-12 02:04:39,570] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.672 seconds
+[2023-02-12 02:05:11,308] {processor.py:153} INFO - Started process (PID=23628) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:05:11,308] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 02:05:11,308] {logging_mixin.py:115} INFO - [2023-02-12 02:05:11,308] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:05:13,998] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:05:17,113] {logging_mixin.py:115} INFO - [2023-02-12 02:05:17,113] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:05:17,133] {logging_mixin.py:115} INFO - [2023-02-12 02:05:17,133] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-02-13T00:00:00+00:00, run_after=2023-02-20T00:00:00+00:00
+[2023-02-12 02:05:17,171] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 5.864 seconds
+[2023-02-12 02:05:48,862] {processor.py:153} INFO - Started process (PID=23673) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:05:48,862] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 02:05:48,863] {logging_mixin.py:115} INFO - [2023-02-12 02:05:48,863] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:05:49,824] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:05:50,916] {logging_mixin.py:115} INFO - [2023-02-12 02:05:50,916] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:05:50,938] {logging_mixin.py:115} INFO - [2023-02-12 02:05:50,938] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-02-13T00:00:00+00:00, run_after=2023-02-20T00:00:00+00:00
+[2023-02-12 02:05:50,957] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 2.098 seconds
+[2023-02-12 02:06:22,502] {processor.py:153} INFO - Started process (PID=23702) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:06:22,502] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 02:06:22,502] {logging_mixin.py:115} INFO - [2023-02-12 02:06:22,502] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:06:23,269] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:06:23,374] {logging_mixin.py:115} INFO - [2023-02-12 02:06:23,374] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:06:23,394] {logging_mixin.py:115} INFO - [2023-02-12 02:06:23,394] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-02-13T00:00:00+00:00, run_after=2023-02-20T00:00:00+00:00
+[2023-02-12 02:06:23,408] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.909 seconds
+[2023-02-12 02:06:54,704] {processor.py:153} INFO - Started process (PID=23708) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:06:54,705] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 02:06:54,705] {logging_mixin.py:115} INFO - [2023-02-12 02:06:54,705] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:06:55,212] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:06:55,296] {logging_mixin.py:115} INFO - [2023-02-12 02:06:55,296] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:06:55,316] {logging_mixin.py:115} INFO - [2023-02-12 02:06:55,316] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-02-13T00:00:00+00:00, run_after=2023-02-20T00:00:00+00:00
+[2023-02-12 02:06:55,333] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.629 seconds
+[2023-02-12 02:07:26,930] {processor.py:153} INFO - Started process (PID=23726) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:07:26,930] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 02:07:26,931] {logging_mixin.py:115} INFO - [2023-02-12 02:07:26,931] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:07:41,211] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:07:47,616] {logging_mixin.py:115} INFO - [2023-02-12 02:07:47,616] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:07:47,635] {logging_mixin.py:115} INFO - [2023-02-12 02:07:47,635] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-02-13T00:00:00+00:00, run_after=2023-02-20T00:00:00+00:00
+[2023-02-12 02:07:47,653] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 20.723 seconds
+[2023-02-12 02:08:19,272] {processor.py:153} INFO - Started process (PID=23755) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:08:19,272] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 02:08:19,273] {logging_mixin.py:115} INFO - [2023-02-12 02:08:19,273] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:08:22,786] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:08:25,124] {logging_mixin.py:115} INFO - [2023-02-12 02:08:25,124] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:08:25,144] {logging_mixin.py:115} INFO - [2023-02-12 02:08:25,144] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-02-13T00:00:00+00:00, run_after=2023-02-20T00:00:00+00:00
+[2023-02-12 02:08:25,201] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 5.930 seconds
+[2023-02-12 02:08:56,606] {processor.py:153} INFO - Started process (PID=23784) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:08:56,607] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 02:08:56,607] {logging_mixin.py:115} INFO - [2023-02-12 02:08:56,607] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:08:57,506] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:08:57,590] {logging_mixin.py:115} INFO - [2023-02-12 02:08:57,590] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:08:57,609] {logging_mixin.py:115} INFO - [2023-02-12 02:08:57,609] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-02-13T00:00:00+00:00, run_after=2023-02-20T00:00:00+00:00
+[2023-02-12 02:08:57,657] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 1.051 seconds
+[2023-02-12 02:09:31,731] {processor.py:153} INFO - Started process (PID=23809) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:09:31,732] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 02:09:31,732] {logging_mixin.py:115} INFO - [2023-02-12 02:09:31,732] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:09:37,002] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:09:37,289] {logging_mixin.py:115} INFO - [2023-02-12 02:09:37,289] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:09:37,309] {logging_mixin.py:115} INFO - [2023-02-12 02:09:37,309] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-02-13T00:00:00+00:00, run_after=2023-02-20T00:00:00+00:00
+[2023-02-12 02:09:37,330] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 5.599 seconds
+[2023-02-12 02:10:08,852] {processor.py:153} INFO - Started process (PID=23834) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:10:08,852] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 02:10:08,853] {logging_mixin.py:115} INFO - [2023-02-12 02:10:08,853] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:10:09,525] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:10:09,612] {logging_mixin.py:115} INFO - [2023-02-12 02:10:09,612] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:10:09,675] {logging_mixin.py:115} INFO - [2023-02-12 02:10:09,675] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-02-13T00:00:00+00:00, run_after=2023-02-20T00:00:00+00:00
+[2023-02-12 02:10:09,730] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.879 seconds
+[2023-02-12 02:10:41,056] {processor.py:153} INFO - Started process (PID=23850) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:10:41,057] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 02:10:41,057] {logging_mixin.py:115} INFO - [2023-02-12 02:10:41,057] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:10:41,566] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:10:41,651] {logging_mixin.py:115} INFO - [2023-02-12 02:10:41,651] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:10:41,672] {logging_mixin.py:115} INFO - [2023-02-12 02:10:41,672] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-02-13T00:00:00+00:00, run_after=2023-02-20T00:00:00+00:00
+[2023-02-12 02:10:41,688] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.632 seconds
+[2023-02-12 02:11:26,525] {processor.py:153} INFO - Started process (PID=23854) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:11:26,545] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 02:11:26,546] {logging_mixin.py:115} INFO - [2023-02-12 02:11:26,545] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:11:31,912] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:11:32,239] {logging_mixin.py:115} INFO - [2023-02-12 02:11:32,239] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:11:32,259] {logging_mixin.py:115} INFO - [2023-02-12 02:11:32,259] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-02-13T00:00:00+00:00, run_after=2023-02-20T00:00:00+00:00
+[2023-02-12 02:11:32,275] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 5.750 seconds
+[2023-02-12 02:12:24,402] {processor.py:153} INFO - Started process (PID=23934) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:12:24,414] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 02:12:24,415] {logging_mixin.py:115} INFO - [2023-02-12 02:12:24,415] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:12:27,759] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:12:27,857] {logging_mixin.py:115} INFO - [2023-02-12 02:12:27,857] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:12:27,879] {logging_mixin.py:115} INFO - [2023-02-12 02:12:27,879] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-02-13T00:00:00+00:00, run_after=2023-02-20T00:00:00+00:00
+[2023-02-12 02:12:27,988] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 3.587 seconds
+[2023-02-12 02:13:01,154] {processor.py:153} INFO - Started process (PID=23964) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:13:01,155] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 02:13:01,155] {logging_mixin.py:115} INFO - [2023-02-12 02:13:01,155] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:13:02,664] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:13:02,747] {logging_mixin.py:115} INFO - [2023-02-12 02:13:02,747] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:13:02,768] {logging_mixin.py:115} INFO - [2023-02-12 02:13:02,767] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-02-13T00:00:00+00:00, run_after=2023-02-20T00:00:00+00:00
+[2023-02-12 02:13:02,783] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 1.629 seconds
+[2023-02-12 02:13:34,487] {processor.py:153} INFO - Started process (PID=23973) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:13:34,487] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 02:13:34,488] {logging_mixin.py:115} INFO - [2023-02-12 02:13:34,488] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:13:37,657] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:13:37,979] {logging_mixin.py:115} INFO - [2023-02-12 02:13:37,979] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:13:37,999] {logging_mixin.py:115} INFO - [2023-02-12 02:13:37,999] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-02-13T00:00:00+00:00, run_after=2023-02-20T00:00:00+00:00
+[2023-02-12 02:13:38,014] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 3.528 seconds
+[2023-02-12 02:14:09,604] {processor.py:153} INFO - Started process (PID=24000) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:14:09,605] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 02:14:09,605] {logging_mixin.py:115} INFO - [2023-02-12 02:14:09,605] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:14:14,676] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:14:17,195] {logging_mixin.py:115} INFO - [2023-02-12 02:14:17,195] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:14:17,215] {logging_mixin.py:115} INFO - [2023-02-12 02:14:17,215] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-02-13T00:00:00+00:00, run_after=2023-02-20T00:00:00+00:00
+[2023-02-12 02:14:17,232] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 7.628 seconds
+[2023-02-12 02:14:49,634] {processor.py:153} INFO - Started process (PID=24018) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:14:49,634] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 02:14:49,635] {logging_mixin.py:115} INFO - [2023-02-12 02:14:49,634] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:14:52,568] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:14:52,653] {logging_mixin.py:115} INFO - [2023-02-12 02:14:52,653] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:14:52,672] {logging_mixin.py:115} INFO - [2023-02-12 02:14:52,672] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-02-13T00:00:00+00:00, run_after=2023-02-20T00:00:00+00:00
+[2023-02-12 02:14:52,687] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 3.054 seconds
+[2023-02-12 02:15:24,128] {processor.py:153} INFO - Started process (PID=24024) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:15:24,129] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 02:15:24,129] {logging_mixin.py:115} INFO - [2023-02-12 02:15:24,129] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:15:24,639] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:15:24,724] {logging_mixin.py:115} INFO - [2023-02-12 02:15:24,724] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:15:24,744] {logging_mixin.py:115} INFO - [2023-02-12 02:15:24,744] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-02-13T00:00:00+00:00, run_after=2023-02-20T00:00:00+00:00
+[2023-02-12 02:15:24,770] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.643 seconds
+[2023-02-12 02:15:56,163] {processor.py:153} INFO - Started process (PID=24048) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:15:56,164] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 02:15:56,164] {logging_mixin.py:115} INFO - [2023-02-12 02:15:56,164] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:15:56,874] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:15:56,958] {logging_mixin.py:115} INFO - [2023-02-12 02:15:56,957] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:15:56,978] {logging_mixin.py:115} INFO - [2023-02-12 02:15:56,977] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-02-13T00:00:00+00:00, run_after=2023-02-20T00:00:00+00:00
+[2023-02-12 02:15:57,054] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.891 seconds
+[2023-02-12 02:16:28,324] {processor.py:153} INFO - Started process (PID=24079) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:16:28,324] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 02:16:28,324] {logging_mixin.py:115} INFO - [2023-02-12 02:16:28,324] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:16:29,528] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:16:29,612] {logging_mixin.py:115} INFO - [2023-02-12 02:16:29,612] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:16:29,623] {logging_mixin.py:115} INFO - [2023-02-12 02:16:29,623] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-02-13T00:00:00+00:00, run_after=2023-02-20T00:00:00+00:00
+[2023-02-12 02:16:29,637] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 1.315 seconds
+[2023-02-12 02:17:01,623] {processor.py:153} INFO - Started process (PID=24096) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:17:01,623] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 02:17:01,624] {logging_mixin.py:115} INFO - [2023-02-12 02:17:01,624] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:17:02,577] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:17:02,663] {logging_mixin.py:115} INFO - [2023-02-12 02:17:02,663] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:17:02,683] {logging_mixin.py:115} INFO - [2023-02-12 02:17:02,682] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-02-13T00:00:00+00:00, run_after=2023-02-20T00:00:00+00:00
+[2023-02-12 02:17:02,697] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 1.075 seconds
+[2023-02-12 02:17:34,004] {processor.py:153} INFO - Started process (PID=24122) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:17:34,004] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 02:17:34,005] {logging_mixin.py:115} INFO - [2023-02-12 02:17:34,005] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:17:35,509] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:17:35,593] {logging_mixin.py:115} INFO - [2023-02-12 02:17:35,593] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:17:35,613] {logging_mixin.py:115} INFO - [2023-02-12 02:17:35,613] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-02-13T00:00:00+00:00, run_after=2023-02-20T00:00:00+00:00
+[2023-02-12 02:17:35,629] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 1.626 seconds
+[2023-02-12 02:18:06,963] {processor.py:153} INFO - Started process (PID=24153) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:18:06,963] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 02:18:06,964] {logging_mixin.py:115} INFO - [2023-02-12 02:18:06,963] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:18:08,088] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:18:10,818] {logging_mixin.py:115} INFO - [2023-02-12 02:18:10,817] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:18:10,841] {logging_mixin.py:115} INFO - [2023-02-12 02:18:10,841] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-02-13T00:00:00+00:00, run_after=2023-02-20T00:00:00+00:00
+[2023-02-12 02:18:10,873] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 3.911 seconds
+[2023-02-12 02:18:43,525] {processor.py:153} INFO - Started process (PID=24195) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:18:43,541] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 02:18:43,542] {logging_mixin.py:115} INFO - [2023-02-12 02:18:43,541] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:18:44,068] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:18:44,144] {logging_mixin.py:115} INFO - [2023-02-12 02:18:44,144] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:18:44,161] {logging_mixin.py:115} INFO - [2023-02-12 02:18:44,161] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-02-13T00:00:00+00:00, run_after=2023-02-20T00:00:00+00:00
+[2023-02-12 02:18:44,172] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.648 seconds
+[2023-02-12 02:19:15,491] {processor.py:153} INFO - Started process (PID=24205) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:19:15,491] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 02:19:15,492] {logging_mixin.py:115} INFO - [2023-02-12 02:19:15,492] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:19:16,232] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:19:16,352] {logging_mixin.py:115} INFO - [2023-02-12 02:19:16,352] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:19:16,373] {logging_mixin.py:115} INFO - [2023-02-12 02:19:16,373] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-02-13T00:00:00+00:00, run_after=2023-02-20T00:00:00+00:00
+[2023-02-12 02:19:16,390] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.899 seconds
+[2023-02-12 02:19:49,189] {processor.py:153} INFO - Started process (PID=24237) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:19:49,190] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 02:19:49,190] {logging_mixin.py:115} INFO - [2023-02-12 02:19:49,190] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:19:55,608] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:19:55,877] {logging_mixin.py:115} INFO - [2023-02-12 02:19:55,877] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:19:55,888] {logging_mixin.py:115} INFO - [2023-02-12 02:19:55,888] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-02-13T00:00:00+00:00, run_after=2023-02-20T00:00:00+00:00
+[2023-02-12 02:19:55,918] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 6.729 seconds
+[2023-02-12 02:20:27,389] {processor.py:153} INFO - Started process (PID=24267) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:20:27,389] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 02:20:27,390] {logging_mixin.py:115} INFO - [2023-02-12 02:20:27,390] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:20:30,975] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:20:31,209] {logging_mixin.py:115} INFO - [2023-02-12 02:20:31,208] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:20:31,229] {logging_mixin.py:115} INFO - [2023-02-12 02:20:31,229] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-02-13T00:00:00+00:00, run_after=2023-02-20T00:00:00+00:00
+[2023-02-12 02:20:31,301] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 3.912 seconds
+[2023-02-12 02:21:02,948] {processor.py:153} INFO - Started process (PID=24289) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:21:02,948] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 02:21:02,949] {logging_mixin.py:115} INFO - [2023-02-12 02:21:02,949] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:21:07,106] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:21:10,170] {logging_mixin.py:115} INFO - [2023-02-12 02:21:10,170] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:21:10,191] {logging_mixin.py:115} INFO - [2023-02-12 02:21:10,191] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-02-13T00:00:00+00:00, run_after=2023-02-20T00:00:00+00:00
+[2023-02-12 02:21:10,209] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 7.261 seconds
+[2023-02-12 02:21:41,818] {processor.py:153} INFO - Started process (PID=24376) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:21:41,818] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 02:21:41,819] {logging_mixin.py:115} INFO - [2023-02-12 02:21:41,819] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:21:43,685] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:21:43,811] {logging_mixin.py:115} INFO - [2023-02-12 02:21:43,810] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:21:43,837] {logging_mixin.py:115} INFO - [2023-02-12 02:21:43,837] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-02-13T00:00:00+00:00, run_after=2023-02-20T00:00:00+00:00
+[2023-02-12 02:21:43,859] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 2.042 seconds
+[2023-02-12 02:22:15,830] {processor.py:153} INFO - Started process (PID=24409) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:22:15,831] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 02:22:15,831] {logging_mixin.py:115} INFO - [2023-02-12 02:22:15,831] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:22:19,713] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:22:19,898] {logging_mixin.py:115} INFO - [2023-02-12 02:22:19,898] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:22:19,925] {logging_mixin.py:115} INFO - [2023-02-12 02:22:19,925] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-02-13T00:00:00+00:00, run_after=2023-02-20T00:00:00+00:00
+[2023-02-12 02:22:19,944] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 4.114 seconds
+[2023-02-12 02:22:52,673] {processor.py:153} INFO - Started process (PID=24418) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:22:52,674] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 02:22:52,674] {logging_mixin.py:115} INFO - [2023-02-12 02:22:52,674] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:22:57,015] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:22:57,362] {logging_mixin.py:115} INFO - [2023-02-12 02:22:57,362] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:22:57,385] {logging_mixin.py:115} INFO - [2023-02-12 02:22:57,385] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-02-13T00:00:00+00:00, run_after=2023-02-20T00:00:00+00:00
+[2023-02-12 02:22:57,400] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 4.728 seconds
+[2023-02-12 02:23:29,090] {processor.py:153} INFO - Started process (PID=24439) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:23:29,090] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 02:23:29,090] {logging_mixin.py:115} INFO - [2023-02-12 02:23:29,090] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:23:33,305] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:23:33,581] {logging_mixin.py:115} INFO - [2023-02-12 02:23:33,581] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:23:33,601] {logging_mixin.py:115} INFO - [2023-02-12 02:23:33,601] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-02-13T00:00:00+00:00, run_after=2023-02-20T00:00:00+00:00
+[2023-02-12 02:23:33,616] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 4.527 seconds
+[2023-02-12 02:24:04,927] {processor.py:153} INFO - Started process (PID=24443) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:24:04,927] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 02:24:04,928] {logging_mixin.py:115} INFO - [2023-02-12 02:24:04,927] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:24:05,533] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:24:05,618] {logging_mixin.py:115} INFO - [2023-02-12 02:24:05,618] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:24:05,638] {logging_mixin.py:115} INFO - [2023-02-12 02:24:05,638] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-02-13T00:00:00+00:00, run_after=2023-02-20T00:00:00+00:00
+[2023-02-12 02:24:05,653] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.727 seconds
+[2023-02-12 02:24:37,762] {processor.py:153} INFO - Started process (PID=24449) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:24:37,762] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 02:24:37,763] {logging_mixin.py:115} INFO - [2023-02-12 02:24:37,763] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:24:40,341] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:24:40,517] {logging_mixin.py:115} INFO - [2023-02-12 02:24:40,517] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:24:40,537] {logging_mixin.py:115} INFO - [2023-02-12 02:24:40,537] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-02-13T00:00:00+00:00, run_after=2023-02-20T00:00:00+00:00
+[2023-02-12 02:24:40,554] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 2.792 seconds
+[2023-02-12 02:25:11,858] {processor.py:153} INFO - Started process (PID=24455) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:25:11,859] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 02:25:11,859] {logging_mixin.py:115} INFO - [2023-02-12 02:25:11,859] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:25:12,403] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:25:12,488] {logging_mixin.py:115} INFO - [2023-02-12 02:25:12,488] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:25:12,508] {logging_mixin.py:115} INFO - [2023-02-12 02:25:12,507] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-02-13T00:00:00+00:00, run_after=2023-02-20T00:00:00+00:00
+[2023-02-12 02:25:12,523] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.665 seconds
+[2023-02-12 02:25:43,821] {processor.py:153} INFO - Started process (PID=24457) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:25:43,821] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 02:25:43,822] {logging_mixin.py:115} INFO - [2023-02-12 02:25:43,822] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:25:44,311] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:25:44,396] {logging_mixin.py:115} INFO - [2023-02-12 02:25:44,395] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:25:44,415] {logging_mixin.py:115} INFO - [2023-02-12 02:25:44,415] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-02-13T00:00:00+00:00, run_after=2023-02-20T00:00:00+00:00
+[2023-02-12 02:25:44,431] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.610 seconds
+[2023-02-12 02:26:15,647] {processor.py:153} INFO - Started process (PID=24459) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:26:15,647] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 02:26:15,647] {logging_mixin.py:115} INFO - [2023-02-12 02:26:15,647] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:26:16,142] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:26:16,227] {logging_mixin.py:115} INFO - [2023-02-12 02:26:16,227] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:26:16,247] {logging_mixin.py:115} INFO - [2023-02-12 02:26:16,247] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-02-13T00:00:00+00:00, run_after=2023-02-20T00:00:00+00:00
+[2023-02-12 02:26:16,262] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.616 seconds
+[2023-02-12 02:26:47,535] {processor.py:153} INFO - Started process (PID=24461) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:26:47,535] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 02:26:47,535] {logging_mixin.py:115} INFO - [2023-02-12 02:26:47,535] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:26:48,028] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:26:48,114] {logging_mixin.py:115} INFO - [2023-02-12 02:26:48,114] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:26:48,134] {logging_mixin.py:115} INFO - [2023-02-12 02:26:48,134] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-02-13T00:00:00+00:00, run_after=2023-02-20T00:00:00+00:00
+[2023-02-12 02:26:48,151] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.617 seconds
+[2023-02-12 02:27:19,449] {processor.py:153} INFO - Started process (PID=24463) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:27:19,450] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py for tasks to queue
+[2023-02-12 02:27:19,450] {logging_mixin.py:115} INFO - [2023-02-12 02:27:19,450] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:27:19,943] {processor.py:651} INFO - DAG(s) dict_keys(['dados_climaticos']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py
+[2023-02-12 02:27:20,027] {logging_mixin.py:115} INFO - [2023-02-12 02:27:20,026] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 02:27:20,046] {logging_mixin.py:115} INFO - [2023-02-12 02:27:20,046] {dag.py:2927} INFO - Setting next_dagrun for dados_climaticos to 2023-02-13T00:00:00+00:00, run_after=2023-02-20T00:00:00+00:00
+[2023-02-12 02:27:20,063] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/dados_climaticos.py took 0.614 seconds
