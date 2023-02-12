@@ -1,0 +1,11 @@
+[2023-02-12 01:13:35,906] {processor.py:153} INFO - Started process (PID=20979) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-02-12 01:13:35,907] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py for tasks to queue
+[2023-02-12 01:13:35,907] {logging_mixin.py:115} INFO - [2023-02-12 01:13:35,907] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-02-12 01:13:36,040] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_target_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py
+[2023-02-12 01:13:40,004] {logging_mixin.py:115} INFO - [2023-02-12 01:13:40,004] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_trigger_target_dag
+[2023-02-12 01:13:40,146] {logging_mixin.py:115} INFO - [2023-02-12 01:13:40,145] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_trigger_target_dag
+[2023-02-12 01:13:40,228] {logging_mixin.py:115} INFO - [2023-02-12 01:13:40,228] {manager.py:508} INFO - Created Permission View: can read on DAG:example_trigger_target_dag
+[2023-02-12 01:13:40,229] {logging_mixin.py:115} INFO - [2023-02-12 01:13:40,229] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:13:40,241] {logging_mixin.py:115} INFO - [2023-02-12 01:13:40,241] {dag.py:2398} INFO - Creating ORM DAG for example_trigger_target_dag
+[2023-02-12 01:13:40,330] {logging_mixin.py:115} INFO - [2023-02-12 01:13:40,330] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_target_dag to None, run_after=None
+[2023-02-12 01:13:40,391] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py took 4.485 seconds

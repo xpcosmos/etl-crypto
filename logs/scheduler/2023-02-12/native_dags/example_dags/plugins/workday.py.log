@@ -1,0 +1,5 @@
+[2023-02-12 01:12:37,195] {processor.py:153} INFO - Started process (PID=20945) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-02-12 01:12:37,195] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py for tasks to queue
+[2023-02-12 01:12:37,196] {logging_mixin.py:115} INFO - [2023-02-12 01:12:37,196] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-02-12 01:12:37,197] {processor.py:653} WARNING - No viable dags retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py
+[2023-02-12 01:12:37,256] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py took 0.062 seconds

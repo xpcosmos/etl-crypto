@@ -1,0 +1,11 @@
+[2023-02-12 01:13:44,836] {processor.py:153} INFO - Started process (PID=20992) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2023-02-12 01:13:44,836] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_controller_dag.py for tasks to queue
+[2023-02-12 01:13:44,837] {logging_mixin.py:115} INFO - [2023-02-12 01:13:44,837] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2023-02-12 01:13:44,896] {processor.py:651} INFO - DAG(s) dict_keys(['example_trigger_controller_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_controller_dag.py
+[2023-02-12 01:13:48,210] {logging_mixin.py:115} INFO - [2023-02-12 01:13:48,210] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_trigger_controller_dag
+[2023-02-12 01:13:48,343] {logging_mixin.py:115} INFO - [2023-02-12 01:13:48,343] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_trigger_controller_dag
+[2023-02-12 01:13:48,461] {logging_mixin.py:115} INFO - [2023-02-12 01:13:48,461] {manager.py:508} INFO - Created Permission View: can read on DAG:example_trigger_controller_dag
+[2023-02-12 01:13:48,462] {logging_mixin.py:115} INFO - [2023-02-12 01:13:48,462] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:13:48,477] {logging_mixin.py:115} INFO - [2023-02-12 01:13:48,476] {dag.py:2398} INFO - Creating ORM DAG for example_trigger_controller_dag
+[2023-02-12 01:13:48,493] {logging_mixin.py:115} INFO - [2023-02-12 01:13:48,493] {dag.py:2927} INFO - Setting next_dagrun for example_trigger_controller_dag to 2021-01-01T00:00:00+00:00, run_after=2021-01-01T00:00:00+00:00
+[2023-02-12 01:13:48,608] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_controller_dag.py took 3.773 seconds

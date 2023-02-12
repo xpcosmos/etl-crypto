@@ -1,125 +1,153 @@
-[2023-02-12 00:54:29,975] {manager.py:480} INFO - Processing files using up to 1 processes at a time 
-[2023-02-12 00:54:29,975] {manager.py:481} INFO - Process each file at most once every 30 seconds
-[2023-02-12 00:54:29,975] {manager.py:482} INFO - Checking for new files in /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags every 300 seconds
-[2023-02-12 00:54:29,975] {manager.py:690} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags
-[2023-02-12 00:54:30,012] {manager.py:693} INFO - There are 1 files in /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags
-[2023-02-12 00:54:32,451] {manager.py:809} INFO - 
+[2023-02-12 01:12:25,567] {manager.py:480} INFO - Processing files using up to 1 processes at a time 
+[2023-02-12 01:12:25,568] {manager.py:481} INFO - Process each file at most once every 30 seconds
+[2023-02-12 01:12:25,568] {manager.py:482} INFO - Checking for new files in /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags every 300 seconds
+[2023-02-12 01:12:25,568] {manager.py:690} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags
+[2023-02-12 01:12:25,740] {manager.py:693} INFO - There are 35 files in /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags
+[2023-02-12 01:12:31,925] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py                                               0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                 0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py                                      0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py                                                   0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py                                           0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py                                         0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                  0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py                                             0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_operator.py                                    0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py                                           0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py                                                  0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py                                             0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py                                                0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py                              0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/tutorial.py                                                          0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py                                                   0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                           0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                  0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                   0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py                                             0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py                                                      0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py                                                  0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                 0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                               0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py                                                  0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py                                        0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_kubernetes_executor.py                                       0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                              0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                  0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py                                         0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py                                           0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                    0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py                                                   0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py                                                    0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                                                                                           1           0  6.07s           2023-02-12T04:12:31
+================================================================================
+[2023-02-12 01:13:12,694] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py                                               0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                 0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py                                      0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py                                                   0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py                                           0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                  0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py                                             0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_operator.py                                    0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py                                           0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py                                             0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py                                                0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py                              0           0  1.34s           2023-02-12T04:12:39
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py                                                   0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                           0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                  0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                   0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py                                             0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py                                                      0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py                                                  0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                 0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                               0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py                                                  0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py                                        0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_kubernetes_executor.py                                       0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                              0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                  0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py                                         0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py                                           0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                    0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py                                                   0           0  1.47s           2023-02-12T04:12:37
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py                                                    0           0  1.89s           2023-02-12T04:12:34
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                                                                                           1           0  6.07s           2023-02-12T04:12:31
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py                                         1           0  2.93s           2023-02-12T04:12:43
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py                                                  1           0  8.76s           2023-02-12T04:12:53
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/tutorial.py                                                          1           0  18.00s          2023-02-12T04:13:12
+================================================================================
+[2023-02-12 01:13:49,041] {manager.py:809} INFO - 
+================================================================================
+DAG File Processing Stats
+
+File Path                                                                                                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
+------------------------------------------------------------------------------------------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only.py                                               0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_local_kubernetes_executor.py                                 0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py                                      0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_complex.py                                                   0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_python_operator.py                                           0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_external_task_marker_dag.py                                  0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_bash_operator.py                                             0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_short_circuit_operator.py                                    0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator.py                                           0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_branch_labels.py                                             0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py                                                0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl_virtualenv.py                              0           0  1.34s           2023-02-12T04:12:39
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py                                                   0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_passing_params_via_test_command.py                           0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_latest_only_with_trigger.py                                  0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py                                   0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_dag_decorator.py                                             0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_branch_operator_decorator.py                                 0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_branch_day_of_week_operator.py                               0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_skip_dag.py                                                  0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_kubernetes_executor.py                                       0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_branch_python_dop_operator_3.py                              0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_branch_datetime_operator.py                                  0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_nested_branch_dag.py                                         0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_subdag_operator.py                                           0           0
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/plugins/workday.py                                                   0           0  1.47s           2023-02-12T04:12:37
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/subdags/subdag.py                                                    0           0  1.89s           2023-02-12T04:12:34
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                                                                                                           1           0  6.07s           2023-02-12T04:12:31
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/tutorial_taskflow_api_etl.py                                         1           0  2.93s           2023-02-12T04:12:43
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/tutorial_etl_dag.py                                                  1           0  8.76s           2023-02-12T04:12:53
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/tutorial.py                                                          1           0  18.00s          2023-02-12T04:13:12
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcom.py                                                      1           0  5.24s           2023-02-12T04:13:32
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_target_dag.py                                        1           0  7.05s           2023-02-12T04:13:40
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_trigger_controller_dag.py                                    1           0  7.17s           2023-02-12T04:13:49
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_xcomargs.py                                                  2           0  12.07s          2023-02-12T04:13:26
+================================================================================
+[2023-02-12 01:14:16,292] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
+[2023-02-12 01:15:10,462] {manager.py:480} INFO - Processing files using up to 1 processes at a time 
+[2023-02-12 01:15:10,462] {manager.py:481} INFO - Process each file at most once every 30 seconds
+[2023-02-12 01:15:10,463] {manager.py:482} INFO - Checking for new files in /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags every 300 seconds
+[2023-02-12 01:15:10,463] {manager.py:690} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags
+[2023-02-12 01:15:10,541] {manager.py:693} INFO - There are 1 files in /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags
+[2023-02-12 01:15:12,879] {manager.py:809} INFO - 
 ================================================================================
 DAG File Processing Stats
 
 File Path                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
 ----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
-/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                           0           1  2.35s           2023-02-12T03:54:32
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                           1           0  2.16s           2023-02-12T04:15:12
 ================================================================================
-[2023-02-12 00:55:05,994] {manager.py:809} INFO - 
-================================================================================
-DAG File Processing Stats
-
-File Path                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
-/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                           0           1  3.26s           2023-02-12T03:55:05
-================================================================================
-[2023-02-12 00:56:03,473] {manager.py:809} INFO - 
+[2023-02-12 01:15:49,767] {manager.py:809} INFO - 
 ================================================================================
 DAG File Processing Stats
 
 File Path                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
 ----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
-/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                           0           1  26.64s          2023-02-12T03:56:03
-================================================================================
-[2023-02-12 00:56:39,927] {manager.py:809} INFO - 
-================================================================================
-DAG File Processing Stats
-
-File Path                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
-/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                           0           1  5.70s           2023-02-12T03:56:39
-================================================================================
-[2023-02-12 00:57:18,260] {manager.py:809} INFO - 
-================================================================================
-DAG File Processing Stats
-
-File Path                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
-/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                           0           1  8.19s           2023-02-12T03:57:18
-================================================================================
-[2023-02-12 00:57:52,636] {manager.py:809} INFO - 
-================================================================================
-DAG File Processing Stats
-
-File Path                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
-/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                           0           1  4.13s           2023-02-12T03:57:52
-================================================================================
-[2023-02-12 00:58:24,554] {manager.py:809} INFO - 
-================================================================================
-DAG File Processing Stats
-
-File Path                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
-/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                           0           1  1.82s           2023-02-12T03:58:24
-================================================================================
-[2023-02-12 00:59:01,353] {manager.py:809} INFO - 
-================================================================================
-DAG File Processing Stats
-
-File Path                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
-/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                           0           1  6.69s           2023-02-12T03:59:01
-================================================================================
-[2023-02-12 00:59:30,313] {manager.py:690} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags
-[2023-02-12 00:59:31,974] {manager.py:693} INFO - There are 0 files in /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags
-[2023-02-12 01:01:19,584] {manager.py:462} INFO - Exiting gracefully upon receiving signal 15
-[2023-02-12 01:01:41,685] {manager.py:480} INFO - Processing files using up to 1 processes at a time 
-[2023-02-12 01:01:41,685] {manager.py:481} INFO - Process each file at most once every 30 seconds
-[2023-02-12 01:01:41,686] {manager.py:482} INFO - Checking for new files in /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags every 300 seconds
-[2023-02-12 01:01:41,686] {manager.py:690} INFO - Searching for files in /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags
-[2023-02-12 01:01:41,713] {manager.py:693} INFO - There are 1 files in /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags
-[2023-02-12 01:01:44,192] {manager.py:809} INFO - 
-================================================================================
-DAG File Processing Stats
-
-File Path                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
-/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                           0           1  2.39s           2023-02-12T04:01:44
-================================================================================
-[2023-02-12 01:02:52,024] {manager.py:809} INFO - 
-================================================================================
-DAG File Processing Stats
-
-File Path                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
-/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                           0           1  37.16s          2023-02-12T04:02:52
-================================================================================
-[2023-02-12 01:03:38,159] {manager.py:809} INFO - 
-================================================================================
-DAG File Processing Stats
-
-File Path                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
-/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                           0           1  15.80s          2023-02-12T04:03:38
-================================================================================
-[2023-02-12 01:04:12,053] {manager.py:809} INFO - 
-================================================================================
-DAG File Processing Stats
-
-File Path                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
-/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                           0           1  3.79s           2023-02-12T04:04:12
-================================================================================
-[2023-02-12 01:04:59,874] {manager.py:809} INFO - 
-================================================================================
-DAG File Processing Stats
-
-File Path                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
-/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                           1           0  17.62s          2023-02-12T04:04:59
-================================================================================
-[2023-02-12 01:05:31,716] {manager.py:809} INFO - 
-================================================================================
-DAG File Processing Stats
-
-File Path                                                               PID    Runtime      # DAGs    # Errors  Last Runtime    Last Run
-----------------------------------------------------------------------  -----  ---------  --------  ----------  --------------  -------------------
-/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                           1           0  1.72s           2023-02-12T04:05:31
+/Users/mikeiasoliveira/Documents/Projetos/etl-crypto/dags/first_dag.py                           1           0  6.12s           2023-02-12T04:15:49
 ================================================================================

@@ -1,0 +1,4 @@
+[2023-02-12 01:14:13,216] {processor.py:153} INFO - Started process (PID=21037) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-02-12 01:14:13,217] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py for tasks to queue
+[2023-02-12 01:14:13,217] {logging_mixin.py:115} INFO - [2023-02-12 01:14:13,217] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py
+[2023-02-12 01:14:13,895] {processor.py:651} INFO - DAG(s) dict_keys(['example_sla_dag']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_sla_dag.py

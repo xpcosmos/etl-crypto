@@ -1,0 +1,11 @@
+[2023-02-12 01:13:55,635] {processor.py:153} INFO - Started process (PID=21004) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-02-12 01:13:55,636] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py for tasks to queue
+[2023-02-12 01:13:55,636] {logging_mixin.py:115} INFO - [2023-02-12 01:13:55,636] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-02-12 01:13:55,770] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group_decorator']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py
+[2023-02-12 01:13:58,712] {logging_mixin.py:115} INFO - [2023-02-12 01:13:58,712] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_task_group_decorator
+[2023-02-12 01:13:58,729] {logging_mixin.py:115} INFO - [2023-02-12 01:13:58,729] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_task_group_decorator
+[2023-02-12 01:13:58,759] {logging_mixin.py:115} INFO - [2023-02-12 01:13:58,759] {manager.py:508} INFO - Created Permission View: can read on DAG:example_task_group_decorator
+[2023-02-12 01:13:58,759] {logging_mixin.py:115} INFO - [2023-02-12 01:13:58,759] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:13:58,777] {logging_mixin.py:115} INFO - [2023-02-12 01:13:58,777] {dag.py:2398} INFO - Creating ORM DAG for example_task_group_decorator
+[2023-02-12 01:13:58,871] {logging_mixin.py:115} INFO - [2023-02-12 01:13:58,871] {dag.py:2927} INFO - Setting next_dagrun for example_task_group_decorator to 2023-02-11T04:13:58.871257+00:00, run_after=2023-02-12T04:13:58.871257+00:00
+[2023-02-12 01:13:58,894] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_task_group_decorator.py took 3.259 seconds

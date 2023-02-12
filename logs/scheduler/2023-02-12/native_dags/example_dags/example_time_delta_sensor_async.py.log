@@ -1,0 +1,11 @@
+[2023-02-12 01:13:51,596] {processor.py:153} INFO - Started process (PID=21000) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-02-12 01:13:51,596] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py for tasks to queue
+[2023-02-12 01:13:51,596] {logging_mixin.py:115} INFO - [2023-02-12 01:13:51,596] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-02-12 01:13:51,719] {processor.py:651} INFO - DAG(s) dict_keys(['example_time_delta_sensor_async']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py
+[2023-02-12 01:13:53,377] {logging_mixin.py:115} INFO - [2023-02-12 01:13:53,377] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_time_delta_sensor_async
+[2023-02-12 01:13:53,390] {logging_mixin.py:115} INFO - [2023-02-12 01:13:53,390] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_time_delta_sensor_async
+[2023-02-12 01:13:53,398] {logging_mixin.py:115} INFO - [2023-02-12 01:13:53,398] {manager.py:508} INFO - Created Permission View: can read on DAG:example_time_delta_sensor_async
+[2023-02-12 01:13:53,399] {logging_mixin.py:115} INFO - [2023-02-12 01:13:53,398] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:13:53,410] {logging_mixin.py:115} INFO - [2023-02-12 01:13:53,409] {dag.py:2398} INFO - Creating ORM DAG for example_time_delta_sensor_async
+[2023-02-12 01:13:53,422] {logging_mixin.py:115} INFO - [2023-02-12 01:13:53,422] {dag.py:2927} INFO - Setting next_dagrun for example_time_delta_sensor_async to None, run_after=None
+[2023-02-12 01:13:53,443] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_time_delta_sensor_async.py took 1.848 seconds

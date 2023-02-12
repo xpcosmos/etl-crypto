@@ -1,0 +1,11 @@
+[2023-02-12 01:12:59,972] {processor.py:153} INFO - Started process (PID=20956) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-02-12 01:12:59,972] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/tutorial.py for tasks to queue
+[2023-02-12 01:12:59,972] {logging_mixin.py:115} INFO - [2023-02-12 01:12:59,972] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-02-12 01:13:00,558] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/tutorial.py
+[2023-02-12 01:13:11,840] {logging_mixin.py:115} INFO - [2023-02-12 01:13:11,839] {manager.py:508} INFO - Created Permission View: can edit on DAG:tutorial
+[2023-02-12 01:13:11,877] {logging_mixin.py:115} INFO - [2023-02-12 01:13:11,877] {manager.py:508} INFO - Created Permission View: can delete on DAG:tutorial
+[2023-02-12 01:13:11,886] {logging_mixin.py:115} INFO - [2023-02-12 01:13:11,886] {manager.py:508} INFO - Created Permission View: can read on DAG:tutorial
+[2023-02-12 01:13:11,887] {logging_mixin.py:115} INFO - [2023-02-12 01:13:11,886] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:13:11,899] {logging_mixin.py:115} INFO - [2023-02-12 01:13:11,899] {dag.py:2398} INFO - Creating ORM DAG for tutorial
+[2023-02-12 01:13:11,912] {logging_mixin.py:115} INFO - [2023-02-12 01:13:11,912] {dag.py:2927} INFO - Setting next_dagrun for tutorial to 2023-02-11T04:13:11.912309+00:00, run_after=2023-02-12T04:13:11.912309+00:00
+[2023-02-12 01:13:12,310] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/tutorial.py took 12.339 seconds

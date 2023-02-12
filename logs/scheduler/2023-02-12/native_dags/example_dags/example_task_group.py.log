@@ -1,0 +1,11 @@
+[2023-02-12 01:14:02,794] {processor.py:153} INFO - Started process (PID=21017) to work on /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-02-12 01:14:02,795] {processor.py:641} INFO - Processing file /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py for tasks to queue
+[2023-02-12 01:14:02,795] {logging_mixin.py:115} INFO - [2023-02-12 01:14:02,795] {dagbag.py:507} INFO - Filling up the DagBag from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-02-12 01:14:03,096] {processor.py:651} INFO - DAG(s) dict_keys(['example_task_group']) retrieved from /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py
+[2023-02-12 01:14:05,711] {logging_mixin.py:115} INFO - [2023-02-12 01:14:05,711] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_task_group
+[2023-02-12 01:14:05,721] {logging_mixin.py:115} INFO - [2023-02-12 01:14:05,721] {manager.py:508} INFO - Created Permission View: can read on DAG:example_task_group
+[2023-02-12 01:14:05,730] {logging_mixin.py:115} INFO - [2023-02-12 01:14:05,730] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_task_group
+[2023-02-12 01:14:05,730] {logging_mixin.py:115} INFO - [2023-02-12 01:14:05,730] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-12 01:14:05,741] {logging_mixin.py:115} INFO - [2023-02-12 01:14:05,740] {dag.py:2398} INFO - Creating ORM DAG for example_task_group
+[2023-02-12 01:14:05,751] {logging_mixin.py:115} INFO - [2023-02-12 01:14:05,751] {dag.py:2927} INFO - Setting next_dagrun for example_task_group to 2023-02-11T04:14:05.751472+00:00, run_after=2023-02-12T04:14:05.751472+00:00
+[2023-02-12 01:14:05,842] {processor.py:161} INFO - Processing /Users/mikeiasoliveira/Documents/Projetos/etl-crypto/.env/lib/python3.10/site-packages/airflow/example_dags/example_task_group.py took 3.048 seconds
